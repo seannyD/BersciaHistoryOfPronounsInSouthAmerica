@@ -1,0 +1,591 @@
+ID	DOCULECT	IPA	COUNTERPART	CONCEPT
+1	ache1246	co	co	I
+2	ache1246	je	je	you (singular)
+3	ache1246	go	go	he/she/it
+4	ache1246	naje	naje	we
+5	ache1246	ore	ore	we
+6	arao1248	ema	ema	I
+7	arao1248	yama	yama	I
+8	arao1248	mi	mi	you (singular)
+9	arao1248	mija	mija	you (singular)
+10	arao1248	mijaha	mijaha	you (singular)
+11	arao1248	da	da	he/she/it
+12	arao1248	hoda	hoda	he/she/it
+13	arao1248	homa	homa	he/she/it
+14	arao1248	oho	oho	he/she/it
+15	arao1248	kada	kada	we
+16	arao1248	kadaha	kadaha	we
+17	arao1248	kama	kama	we
+18	arao1248	kamaha	kamaha	we
+19	ayor1240	yu	yu	I
+20	ayor1240	uuyu	uuyu	I
+21	ayor1240	ua	ua	you (singular)
+22	ayor1240	uuteʔ	uuteʔ	he/she/it
+23	ayor1240	uaateʔ	uaateʔ	he/she/it
+24	ayor1240	yokeʔ	yokeʔ	we
+25	ayor1240	uuyokeʔ	uuyokeʔ	we
+26	bari1297	nai	nai	I
+27	bari1297	bai	bai	you (singular)
+28	bari1297	oobai	oobai	he/she/it
+29	bari1297	cyiidyi	cyiidyi	we
+30	baur1253	ni	ni	I
+31	baur1253	nti	nti	I
+32	baur1253	piti	piti	you (singular)
+33	baur1253	roti	roti	he/she/it
+34	baur1253	riti	riti	he/she/it
+35	baur1253	βiti	βiti	we
+36	cane1242	pa	pa	I
+37	cane1242	wa	wa	I
+38	cane1242	ka	ka	you (singular)
+39	cane1242	tamə	tamə	he/she/it
+40	maqu1238	iwi	iwi	I
+41	maqu1238	əmədə	əmədə	you (singular)
+42	maqu1238	tiwi	tiwi	he/she/it
+43	maqu1238	kiwi	kiwi	we
+44	maqu1238	nna	nna	we
+45	pano1254	ia	ia	I
+46	pano1254	i	i	I
+47	pano1254	mia	mia	you (singular)
+48	pano1254	mi	mi	you (singular)
+49	pano1254	haa	haa	he/she/it
+50	pano1254	hato	hato	he/she/it
+51	pano1254	hawi	hawi	he/she/it
+52	pano1254	noki	noki	we
+53	pano1254	no	no	we
+54	cayu1262	hi	hi	I
+55	cayu1262	a	a	I
+56	cayu1262	ri	ri	I
+57	cayu1262	ro	ro	I
+58	cayu1262	p	p	you (singular)
+59	cayu1262	pi	pi	you (singular)
+60	cayu1262	ipi	ipi	you (singular)
+61	cayu1262	apa	apa	you (singular)
+62	cayu1262	r	r	he/she/it
+63	cayu1262	ri	ri	he/she/it
+64	cayu1262	t	t	he/she/it
+65	cayu1262	ta	ta	he/she/it
+66	cayu1262	tite	tite	he/she/it
+67	cayu1262	i	i	he/she/it
+68	cayu1262	rae	rae	he/she/it
+69	cayu1262	o	o	we
+70	cayu1262	oda	oda	we
+71	cayu1262	ona	ona	we
+72	cayu1262	onara	onara	we
+73	cayu1262	rihi	rihi	we
+74	cayu1262	ihi	ihi	we
+75	east2555	ce	ce	I
+76	east2555	se	se	I
+77	east2555	de	de	you (singular)
+78	east2555	hae	hae	he/she/it
+79	east2555	yade	yade	we
+80	east2555	ore	ore	we
+81	iyow1239	yem	yem	I
+82	iyow1239	am	am	you (singular)
+83	iyow1239	lam	lam	he/she/it
+84	iyow1239	sam	sam	we
+85	iyow1239	yemel	yemel	we
+86	iyow1239	samel	samel	we
+87	cofa1242	na	na	I
+88	cofa1242	gi	gi	I
+89	cofa1242	ke	ke	you (singular)
+90	cofa1242	hoβa	hoβa	he/she/it
+91	cofa1242	tise	tise	he/she/it
+92	cofa1242	ca	ca	he/she/it
+93	cofa1242	igi	igi	we
+94	colo1256	la	la	I
+95	colo1256	cike	cike	I
+96	colo1256	nu	nu	you (singular)
+97	colo1256	ya	ya	he/she/it
+98	colo1256	cikila	cikila	we
+99	nort2972	mi	mi	I
+100	nort2972	bi	bi	you (singular)
+101	nort2972	iji	iji	he/she/it
+102	nort2972	iru	iru	he/she/it
+103	nort2972	dai	dai	we
+104	epen1239	mi	mi	I
+105	epen1239	mici	mici	I
+106	epen1239	pi	pi	you (singular)
+107	epen1239	pici	pici	you (singular)
+108	epen1239	iru	iru	he/she/it
+109	epen1239	ici	ici	he/she/it
+110	epen1239	taci	taci	we
+111	epen1239	tai	tai	we
+112	wayu1243	taya	taya	I
+113	wayu1243	pia	pia	you (singular)
+114	wayu1243	nia	nia	he/she/it
+115	wayu1243	hia	hia	he/she/it
+116	wayu1243	waya	waya	we
+117	para1311	ce	ce	I
+118	para1311	de	de	you (singular)
+119	para1311	haʔe	haʔe	he/she/it
+120	para1311	haʔe	haʔe	we
+121	para1311	haʔecupe	haʔecupe	we
+122	para1311	nade	nade	we
+123	para1311	ore	ore	we
+124	igna1246	nuti	nuti	I
+125	igna1246	piti	piti	you (singular)
+126	igna1246	ema	ema	he/she/it
+127	igna1246	eni	eni	he/she/it
+128	igna1246	witi	witi	we
+129	iton1250	osni	osni	I
+130	iton1250	osniʔka	osniʔka	I
+131	iton1250	oʔni	oʔni	you (singular)
+132	iton1250	koʔni	koʔni	you (singular)
+133	iton1250	ohni	ohni	he/she/it
+134	iton1250	pini	pini	he/she/it
+135	iton1250	dihniʔke	dihniʔke	we
+136	iton1250	dihniteʔke	dihniteʔke	we
+137	iton1250	sihniʔke	sihniʔke	we
+138	iton1250	sihniteʔke	sihniteʔke	we
+139	kain1272	ʔin	ʔin	I
+140	kain1272	ʔa	ʔa	you (singular)
+141	kain1272	ti	ti	he/she/it
+142	kain1272	i	i	he/she/it
+143	kain1272	ʔen	ʔen	we
+144	kara1500	jiari	jiari	I
+145	kara1500	kai	kai	you (singular)
+146	kara1500	tii	tii	he/she/it
+147	kara1500	ini	ini	we
+148	leng1262	koo	koo	I
+149	leng1262	liyip	liyip	you (singular)
+150	leng1262	liyi	liyi	you (singular)
+151	leng1262	ninkoo	ninkoo	we
+152	maca1260	yakhaʔ	yakhaʔ	I
+153	maca1260	akhaʔ	akhaʔ	you (singular)
+154	maca1260	akhaʔan	akhaʔan	he/she/it
+155	maca1260	inekhewel	inekhewel	we
+156	maca1260	inekhewelkiʔ	inekhewelkiʔ	we
+157	maca1260	yekhewelil	yekhewelil	we
+158	macu1259	uuri	uuri	I
+159	macu1259	amiri	amiri	you (singular)
+160	macu1259	miikiri	miikiri	he/she/it
+161	macu1259	uuriʔnikon	uuriʔnikon	we
+162	macu1259	anna	anna	we
+163	mash1270	hita	hita	I
+164	mash1270	no	no	I
+165	mash1270	pita	pita	you (singular)
+166	mash1270	p	p	you (singular)
+167	mash1270	pi	pi	you (singular)
+168	mash1270	wale	wale	he/she/it
+169	mash1270	wala	wala	he/she/it
+170	mash1270	wita	wita	we
+171	mash1270	ha	ha	we
+172	movi1243	inla	inla	I
+173	movi1243	ulkan	ulkan	you (singular)
+174	movi1243	usko	usko	he/she/it
+175	movi1243	isne	isne	he/she/it
+176	movi1243	asko	asko	he/she/it
+177	movi1243	ide	ide	we
+178	movi1243	iʔli	iʔli	we
+179	mund1330	on	on	I
+180	mund1330	en	en	you (singular)
+181	mund1330	e	e	you (singular)
+182	mund1330	ise	ise	he/she/it
+183	mund1330	ite	ite	he/she/it
+184	mund1330	ibo	ibo	he/she/it
+185	mund1330	ija	ija	he/she/it
+186	mund1330	ijop	ijop	he/she/it
+187	mund1330	ino	ino	he/she/it
+188	mund1330	wiyji	wiyji	we
+189	mund1330	oceji	oceji	we
+190	nina1238	kamiye	kamiye	I
+191	nina1238	ya	ya	I
+192	nina1238	kahowa	kahowa	you (singular)
+193	nina1238	wa	wa	you (singular)
+194	nina1238	kama	kama	he/she/it
+195	nina1238	kahowamak	kahowamak	we
+196	nina1238	wamak	wamak	we
+197	nina1238	kamiyamak	kamiyamak	we
+198	nina1238	yamak	yamak	we
+199	niva1238	yiwaaca	yiwaaca	I
+200	niva1238	awaaca	awaaca	you (singular)
+201	niva1238	lawaaca	lawaaca	he/she/it
+202	niva1238	kaswaaca	kaswaaca	we
+203	niva1238	yiwaacael	yiwaacael	we
+204	paez1247	ad	ad	I
+205	paez1247	uʔkwe	uʔkwe	I
+206	paez1247	id	id	you (singular)
+207	paez1247	iʔkwe	iʔkwe	you (singular)
+208	paez1247	taa	taa	he/she/it
+209	paez1247	kweʔs	kweʔs	we
+210	wari1268	wataʔ	wataʔ	I
+211	wari1268	wum	wum	you (singular)
+212	wari1268	komaʔ	komaʔ	he/she/it
+213	wari1268	wariʔ	wariʔ	we
+214	wari1268	warut	warut	we
+215	paca1246	ia	ia	I
+216	paca1246	haa	haa	he/she/it
+217	enap1235	yu	yu	I
+218	enap1235	amən	amən	you (singular)
+219	enap1235	mək	mək	he/she/it
+220	enap1235	mukuh	mukuh	he/she/it
+221	enap1235	yutokon	yutokon	we
+222	enap1235	weʔnəkon	weʔnəkon	we
+223	enap1235	ana	ana	we
+224	pila1245	hayim	hayim	I
+225	pila1245	ʔam	ʔam	you (singular)
+226	pila1245	ʔme	ʔme	he/she/it
+227	pila1245	koʔmi	koʔmi	we
+228	puin1248	am	am	I
+229	puin1248	mam	mam	you (singular)
+230	puin1248	naa	naa	he/she/it
+231	puin1248	oo	oo	he/she/it
+232	puin1248	bitu	bitu	we
+233	sion1247	yiʔi	yiʔi	I
+234	sion1247	miʔi	miʔi	you (singular)
+235	sion1247	paki	paki	he/she/it
+236	sion1247	pako	pako	he/she/it
+237	sion1247	paku	paku	he/she/it
+238	sion1247	mai	mai	we
+239	sion1247	yikina	yikina	we
+240	siri1273	se	se	I
+241	siri1273	ne	ne	you (singular)
+242	siri1273	ae	ae	he/she/it
+243	siri1273	nane	nane	we
+244	siri1273	ure	ure	we
+245	taca1256	ema	ema	I
+246	taca1256	yama	yama	I
+247	taca1256	mida	mida	you (singular)
+248	taca1256	miada	miada	you (singular)
+249	taca1256	toeda	toeda	he/she/it
+250	taca1256	toaweda	toaweda	he/she/it
+251	taca1256	ekaneda	ekaneda	we
+252	taca1256	ekanaho	ekanaho	we
+253	trin1274	n	n	I
+254	trin1274	p	p	you (singular)
+255	trin1274	ma	ma	he/she/it
+256	trin1274	mue	mue	he/she/it
+257	trin1274	ema	ema	he/she/it
+258	trin1274	eni	eni	he/she/it
+259	trin1274	w	w	we
+260	trum1247	ha	ha	I
+261	trum1247	hai	hai	I
+262	trum1247	haits	haits	I
+263	trum1247	hi	hi	you (singular)
+264	trum1247	hine	hine	he/she/it
+265	trum1247	ne	ne	he/she/it
+266	trum1247	hauan	hauan	we
+267	trum1247	kaa	kaa	we
+268	tuyu1244	yii	yii	I
+269	tuyu1244	bii	bii	you (singular)
+270	tuyu1244	kiikoo	kiikoo	he/she/it
+271	tuyu1244	bari	bari	we
+272	tuyu1244	isa	isa	we
+273	waiw1244	owi	owi	I
+274	waiw1244	amoro	amoro	you (singular)
+275	waiw1244	noro	noro	he/she/it
+276	waiw1244	ero	ero	he/she/it
+277	waiw1244	kiiwi	kiiwi	we
+278	waiw1244	kiwyam	kiwyam	we
+279	waiw1244	amna	amna	we
+280	waor1240	boto	boto	I
+281	waor1240	bito	bito	you (singular)
+282	waor1240	tobega	tobega	he/she/it
+283	waor1240	bodo	bodo	we
+284	waor1240	bodito	bodito	we
+285	wapi1253	ugari	ugari	I
+286	wapi1253	pigari	pigari	you (singular)
+287	wapi1253	irii	irii	he/she/it
+288	wapi1253	uruu	uruu	he/she/it
+289	wapi1253	wainau	wainau	we
+290	waur1244	natu	natu	I
+291	waur1244	picu	picu	you (singular)
+292	waur1244	nezi	nezi	he/she/it
+293	waur1244	aicu	aicu	we
+294	waya1270	a	a	I
+295	waya1270	iye	iye	I
+296	waya1270	ele	ele	you (singular)
+297	waya1270	ene	ene	you (singular)
+298	waya1270	ɔ	ɔ	he/she/it
+299	waya1270	awi	awi	he/she/it
+300	waya1270	ya	ya	we
+301	waya1270	yane	yane	we
+302	waya1270	ɔlɔ	ɔlɔ	we
+303	waya1270	ɔle	ɔle	we
+304	wich1264	olam	olam	I
+305	wich1264	am	am	you (singular)
+306	wich1264	lam	lam	he/she/it
+307	wich1264	olamil	olamil	we
+308	wich1264	namil	namil	we
+309	yagu1244	ray	ray	I
+310	yagu1244	hi	hi	you (singular)
+311	yagu1244	ni	ni	he/she/it
+312	yagu1244	sani	sani	he/she/it
+313	yagu1244	ra	ra	he/she/it
+314	yagu1244	nay	nay	we
+315	yagu1244	wuy	wuy	we
+316	yagu1244	nuy	nuy	we
+317	yami1256	i	i	I
+318	yami1256	ia	ia	I
+319	yami1256	mi	mi	you (singular)
+320	yami1256	mia	mia	you (singular)
+321	yami1256	ato	ato	he/she/it
+322	yami1256	a	a	he/she/it
+323	yami1256	no	no	we
+324	yami1256	noko	noko	we
+325	pume1238	kɔde	kɔde	I
+326	pume1238	mene	mene	you (singular)
+327	pume1238	ɔde	ɔde	he/she/it
+328	pume1238	ine	ine	he/she/it
+329	pume1238	arore	arore	we
+330	yavi1244	nuyaha	nuyaha	I
+331	yavi1244	hiyaha	hiyaha	you (singular)
+332	yavi1244	anihi	anihi	he/she/it
+333	yavi1244	wayaha	wayaha	we
+334	yuwa1244	ye	ye	I
+335	yuwa1244	ke	ke	you (singular)
+336	yuwa1244	ke	ke	he/she/it
+337	yuwa1244	ye	ye	we
+338	yuwa1244	yeti	yeti	we
+339	hupd1244	tih	tih	he/she/it
+340	hupd1244	ʔah	ʔah	I
+341	hupd1244	ʔam	ʔam	you (singular)
+342	hupd1244	ʔin	ʔin	we
+343	imba1240	kan	kan	you (singular)
+344	imba1240	nuka	nuka	I
+345	imba1240	nukanchik	nukanchik	we
+346	imba1240	pay	pay	he/she/it
+347	gali1262	amolo	amolo	you (singular)
+348	gali1262	awu	awu	I
+349	gali1262	kiko	kiko	we
+350	gali1262	moko	moko	he/she/it
+351	gali1262	molo	molo	he/she/it
+352	gali1262	nana	nana	we
+353	sara1340	a	a	he/she/it
+354	sara1340	en	en	he/she/it
+355	sara1340	i	i	you (singular)
+356	sara1340	mi	mi	I
+357	sara1340	u	u	we
+358	wich1264	am	am	you (singular)
+359	wich1264	lham	lham	he/she/it
+360	wich1264	nlham	nlham	I
+361	wich1264	nlhamilh	nlhamilh	we
+362	wich1264	namilh	namilh	we
+363	wich1264	tolhamilh	tolhamilh	we
+364	agua1253	wi	wi	I
+365	agua1253	amɨ	amɨ	you
+366	agua1253	nĩ	nĩ	he/she/it
+367	agua1253	ii	ii	we
+368	amar1274	ndoʔ	ndoʔ	I
+369	amar1274	õn	õn	you
+370	amar1274	kẽn	kẽn	he/she/it
+371	amar1274	oroʔ	oroʔ	we
+372	arhu1242	nʉn	nʉn	I
+373	arhu1242	ma	ma	you
+374	arhu1242	a	a	he/she/it
+375	arhu1242	manʉnka	manʉnka	we
+376	ashe1272	no	no	I
+377	ashe1272	pi	pi	you
+378	ashe1272	i	i	he/she/it
+379	ashe1272	a	a	we
+380	awac1239	na	na	I
+381	awac1239	nu	nu	you
+382	awac1239	us	us	he/she/it
+383	awac1239	au	au	we
+384	ayac1239	ɲuqa	ɲuqa	I
+385	ayac1239	qam	qam	you
+386	ayac1239	paj	paj	he/she/it
+387	ayac1239	ɲuqant͡ʃik	ɲuqant͡ʃik	we
+388	boro1282	imi	imi	I
+389	boro1282	aki	aki	you
+390	boro1282	ema	ema	he/she/it
+391	boro1282	pagi	pagi	we
+392	cand1248	no	no	I
+393	cand1248	shi	shi	you
+394	cand1248	o	o	he/she/it
+395	cand1248	i	i	we
+396	capa1241	he	he	I
+397	capa1241	mi	mi	you
+398	capa1241	ha	ha	he/she/it
+399	capa1241	no	no	we
+400	cash1251	ɨ	ɨ	I
+401	cash1251	mi	mi	you
+402	cash1251	a	a	he/she/it
+403	cash1251	nu	nu	we
+404	cash1254	e	e	I
+405	cash1254	mi	mi	you
+406	cash1254	ja	ja	he/she/it
+407	cash1254	nu	nu	we
+408	cavi1250	i	i	I
+409	cavi1250	mi	mi	you
+410	cavi1250	tu	tu	he/she/it
+411	cent2142	na	na	I
+412	cent2142	huma	huma	you
+413	cent2142	upa	upa	he/she/it
+414	cent2142	hiwsa	hiwsa	we
+415	chac1249	i	i	I
+416	chac1249	ɲu	ɲu	you
+417	chac1249	ja	ja	he/she/it
+418	chac1249	lala	lala	we
+419	chac1251	ɨ	ɨ	I
+420	chac1251	mi	mi	you
+421	chac1251	ha	ha	he/she/it
+422	chac1251	no	no	we
+423	chay1248	ka	ka	I
+424	chay1248	kɨma	kɨma	you
+425	chay1248	ina	ina	he/she/it
+426	chay1248	pasu	pasu	he/she/it
+427	chay1248	saja	saja	he/she/it
+428	chay1248	kija	kija	we
+429	chib1270	hyt͡ʃa	hyt͡ʃa	I
+430	chib1270	mué	mué	you
+431	chib1270	asy	asy	he/she/it
+432	chib1270	t͡ʃie	t͡ʃie	we
+433	chip1262	wer	wer	I
+434	chip1262	am	am	you
+435	chip1262	ni:	ni:	he/she/it
+436	chip1262	ut͡ʃum	ut͡ʃum	we
+437	chol1284	ok	ok	I
+438	chol1284	mi	mi	you
+439	chol1284	pi	pi	he/she/it
+440	chol1284	kiha	kiha	we
+441	cusc1236	nuqa	nuqa	I
+442	cusc1236	qam	qam	you
+443	cusc1236	paj	paj	he/she/it
+444	cusc1236	ɲuqant͡ʃis	ɲuqant͡ʃis	we
+445	djeo1235	ħø	ħø	I
+446	djeo1235	ʔad͡ʒe	ʔad͡ʒe	you
+447	djeo1235	na	na	he/she/it
+448	djeo1235	ħirø	ħirø	we
+449	esee1248	e	e	I
+450	esee1248	mi	mi	you
+451	esee1248	tu	tu	he/she/it
+452	guam1248	na	na	I
+453	guam1248	ɲi	ɲi	you
+454	guam1248	na	na	he/she/it
+455	hixk1239	uro	uro	I
+456	hixk1239	omoro	omoro	you
+457	hixk1239	noro	noro	he/she/it
+458	hixk1239	kɨwro	kɨwro	we
+459	iqui1243	ki	ki	I
+460	iqui1243	kia	kia	you
+461	iqui1243	nu	nu	he/she/it
+462	iqui1243	kina	kina	we
+463	jebe1250	kwa	kwa	I
+464	jebe1250	kɨnma	kɨnma	you
+465	jebe1250	nana	nana	he/she/it
+466	jebe1250	kuða	kuða	we
+467	kari1311	ɨ̃n	ɨ̃n	I
+468	kari1311	ãn	ãn	you
+469	kari1311	i	i	he/she/it
+470	kari1311	ita	ita	we
+471	krik1239	pa	pa	I
+472	krik1239	ka	ka	you
+473	krik1239	ta	ta	he/she/it
+474	kunz1244	aka	aka	I
+475	kunz1244	t͡ʃema	t͡ʃema	you
+476	kunz1244	aja	aja	he/she/it
+477	kunz1244	kuna	kuna	we
+478	leco1242	era	era	I
+479	leco1242	ija	ija	you
+480	leco1242	kibi	kibi	he/she/it
+481	leco1242	t͡ʃera	t͡ʃera	we
+482	mapu1245	iɲt͡ʃe	iɲt͡ʃe	I
+483	mapu1245	ejmi	ejmi	you
+484	mapu1245	fej	fej	he/she/it
+485	mapu1245	iɲt͡ʃiw	iɲt͡ʃiw	we
+486	moch1259	moiɲ	moiɲ	I
+487	moch1259	t͡ʃang	t͡ʃang	you
+488	moch1259	çio	çio	he/she/it
+489	moco1246	jim	jim	I
+490	moco1246	qamʔ	qamʔ	you
+491	moco1246	qomiʔ	qomiʔ	we
+492	mose1249	jäe	jäe	I
+493	mose1249	mi	mi	you
+494	mose1249	mi	mi	he/she/it
+495	mose1249	tsin	tsin	we
+496	muni1258	nü	nü	I
+497	muni1258	pü	pü	you
+498	muni1258	ra	ra	he/she/it
+499	muni1258	wü	wü	we
+500	nort2980	yaʔa	yaʔa	I
+501	nort2980	ʔam	ʔam	you
+502	nort2980	paj	paj	he/she/it
+503	nort2980	yaʔakuna	yaʔakuna	we
+504	nort2973	ɲuka	ɲuka	I
+505	nort2973	kam	kam	you
+506	nort2973	paj	paj	he/she/it
+507	nort2973	ɲukant͡ʃik	ɲukant͡ʃik	we
+508	ocai1244	xooúnh	xooúnh	I
+509	ocai1244	ooúnh	ooúnh	you
+510	ocai1244	injánh	injánh	he/she/it
+511	ocai1244	xaajóh	xaajóh	we
+512	onaa1245	ja	ja	I
+513	onaa1245	ma	ma	you
+514	onaa1245	ta	ta	he/she/it
+515	onaa1245	ikuwa	ikuwa	we
+516	pira1253	ti	ti	I
+517	pira1253	giʔái	giʔái	you
+518	pira1253	hiapióʔio	hiapióʔio	he/she/it
+519	pira1253	ti	ti	we
+520	puel1244	kwa	kwa	I
+521	puel1244	kɨmaw	kɨmaw	you
+522	puel1244	ʃaʃa	ʃaʃa	he/she/it
+523	puel1244	kɨyaw	kɨyaw	we
+524	puqu1242	ni	ni	I
+525	puqu1242	pi	pi	you
+526	puqu1242	t͡ʃu	t͡ʃu	he/she/it
+527	puqu1242	seɲ	seɲ	we
+528	qawa1238	t͡ʃe	t͡ʃe	I
+529	qawa1238	t͡ʃaw	t͡ʃaw	you
+530	qawa1238	tou	tou	he/she/it
+531	qawa1238	t͡ʃe	t͡ʃe	we
+532	sanb1242	an	an	I
+533	sanb1242	pa	pa	you
+534	sanb1242	ad	ad	he/she/it
+535	sanb1242	nan	nan	we
+536	ship1254	e	e	I
+537	ship1254	mi	mi	you
+538	ship1254	ja	ja	he/she/it
+539	ship1254	no	no	we
+540	shua1257	wi	wi	I
+541	shua1257	amɨ	amɨ	you
+542	shua1257	nĩi	nĩi	he/she/it
+543	shua1257	íĩ	íĩ	we
+544	sout2996	naja	naja	I
+545	sout2996	huma	huma	you
+546	sout2996	hupa	hupa	he/she/it
+547	sout2996	hiwasa	hiwasa	we
+548	tari1256	nu	nu	I
+549	tari1256	pi	pi	you
+550	tari1256	di	di	he/she/it
+551	tari1256	wa	wa	we
+552	tehu1242	ja:	ja:	I
+553	tehu1242	ma:	ma:	you
+554	tehu1242	ta:	ta:	he/she/it
+555	tehu1242	okwa:	okwa:	we
+556	toba1269	ajem	ajem	I
+557	toba1269	ʔam	ʔam	you
+558	toba1269	qomiʔ	qomiʔ	we
+559	urar1246	kanʉ	kanʉ	I
+560	urar1246	i:	i:	you
+561	urar1246	aka	aka	he/she/it
+562	urar1246	kana	kana	we
+563	wich1262	nɬam	nɬam	I
+564	wich1262	am	am	you
+565	wich1262	ɬam	ɬam	he/she/it
+566	wich1262	nɬamiɬ	nɬamiɬ	we
+567	xava1240	ʔwa	ʔwa	I
+568	xava1240	ʔa	ʔa	you
+569	xava1240	ʔõ	ʔõ	he/she/it
+570	yama1264	haj	haj	I
+571	yama1264	sa	sa	you
+572	yama1264	kænjin	kænjin	he/she/it
+573	yama1264	hipaj	hipaj	we
+574	yane1238	na	na	I
+575	yane1238	pa	pa	you
+576	yane1238	ɲa	ɲa	he/she/it
+577	yane1238	ja	ja	we
+578	yano1262	ya	ya	I
+579	yano1262	wa	wa	you
+580	yano1262	a	a	he/she/it
+581	yano1262	pɨhɨkɨ	pɨhɨkɨ	we
+582	mill1237	ku	ku	I
+583	dama1000	ra	ra	I
+584	sech1236	ɲi	ɲi	I
+585	mill1237	ka	ka	you
+586	dama1000	ma	ma	you
+587	sech1236	ma	ma	you
+588	mill1237	eguj	eguj	he/she/it
+589	dama1000	na	na	he/she/it
+590	mill1237	kut͡ʃu	kut͡ʃu	we

@@ -1,0 +1,11 @@
+Quartet Distance = 7934529
+Permuted:
+p =  0.0
+mean perm 8234177.91584
+sd 16711.2147359
+Z =  -17.9310074449
+Permuted within families:
+p =  0.26
+mean perm 7942530.138
+sd 13195.2510137
+Z =  -0.606364971131

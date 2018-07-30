@@ -1,0 +1,193 @@
+ID	DOCULECT	IPA	COUNTERPART	CONCEPT	TOKENS	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	DUPLICATES	COGNATES	ALIGNMENT
+1	ache1246	co	co	I	c o	1 7	AX	CU	1	1.C.C 1.U.V	2.0 1.5	0	1	c	o
+														
+364	agua1253	wi	wi	I	w i	6 7	AX	WI	2	2.W.C 2.I.V	2.0 1.5	0	2	w	i
+														
+368	amar1274	ndoʔ	ndoʔ	I	n d o ʔ	4 1 7 1	ACYN	NTUH	3	3.N.C 3.T.C 3.U.V 3.H.c	2.0 1.5 1.3 0.8	0	3	n	d	o	ʔ
+														
+372	arhu1242	nʉn	nʉn	I	n ʉ n	4 7 4	AXN	NYN	5	5.N.C 5.Y.V 5.N.c	2.0 1.5 0.8	0	5	n	ʉ	n	-	-
+482	mapu1245	iɲt͡ʃe	iɲt͡ʃe	I	i ɲ t͡ʃ e	7 4 2 7	XMBZ	INCE	55	55.I.V 55.N.c 55.C.C 55.E.V	1.5 1.1 1.75 0.8	0	5	-	i	ɲ	t͡ʃ	e
+532	sanb1242	an	an	I	a n	7 4	XN	AN	83	83.A.V 83.N.c	1.5 0.8	0	5	-	a	n	-	-
+														
+30	baur1253	ni	ni	I	n i	4 7	AX	NI	11	11.N.C 11.I.V	2.0 1.5	0	6	-	-	n	-	i	-	-	-
+31	baur1253	nti	nti	I	n t i	4 1 7	ACZ	NTI	11	11.N.C 11.T.C 11.I.V	2.0 1.5 0.8	0	6	-	-	n	t	i	-	-	-
+129	iton1250	osni	osni	I	o s n i	7 3 4 7	XBCZ	USNI	43	43.U.V 43.S.C 43.N.C 43.I.V	1.5 1.75 1.5 0.8	0	6	o	s	n	-	i	-	-	-
+130	iton1250	osniʔka	osniʔka	I	o s n i ʔ k a	7 3 4 7 1 1 7	XBCYMBZ	USNIHKA	43	43.U.V 43.S.C 43.N.C 43.I.V 43.H.c 43.K.C 43.A.V	1.5 1.75 1.5 1.3 1.1 1.75 0.8	0	6	o	s	n	-	i	ʔ	k	a
+164	mash1270	no	no	I	n o	4 7	AX	NU	57	57.N.C 57.U.V	2.0 1.5	0	6	-	-	n	-	o	-	-	-
+253	trin1274	n	n	I	n	4	A	N	95	95.N.C	2.0	0	6	-	-	n	-	-	-	-	-
+376	ashe1272	no	no	I	n o	4 7	AX	NU	6	6.N.C 6.U.V	2.0 1.5	0	6	-	-	n	-	o	-	-	-
+380	awac1239	na	na	I	n a	4 7	AX	NA	7	7.N.C 7.A.V	2.0 1.5	0	6	-	-	n	-	a	-	-	-
+392	cand1248	no	no	I	n o	4 7	AX	NU	13	13.N.C 13.U.V	2.0 1.5	0	6	-	-	n	-	o	-	-	-
+452	guam1248	na	na	I	n a	4 7	AX	NA	37	37.N.C 37.A.V	2.0 1.5	1	6	-	-	n	-	a	-	-	-
+574	yane1238	na	na	I	n a	4 7	AX	NA	112	112.N.C 112.A.V	2.0 1.5	0	6	-	-	n	-	a	-	-	-
+														
+88	cofa1242	gi	gi	I	g i	1 7	AX	KI	27	27.K.C 27.I.V	2.0 1.5	0	8	-	-	g	i
+95	colo1256	cike	cike	I	c i k e	1 7 1 7	AXBZ	CIKE	28	28.C.C 28.I.V 28.K.C 28.E.V	2.0 1.5 1.75 0.8	0	8	c	i	k	e
+344	imba1240	nuka	nuka	I	n u k a	4 7 1 7	AXBZ	NYKA	41	41.N.C 41.Y.V 41.K.C 41.A.V	2.0 1.5 1.75 0.8	0	8	n	u	k	a
+384	ayac1239	ɲuqa	ɲuqa	I	ɲ u q a	4 7 1 7	AXBZ	NYKA	8	8.N.C 8.Y.V 8.K.C 8.A.V	2.0 1.5 1.75 0.8	0	8	ɲ	u	q	a
+423	chay1248	ka	ka	I	k a	1 7	AX	KA	23	23.K.C 23.A.V	2.0 1.5	0	8	-	-	k	a
+441	cusc1236	nuqa	nuqa	I	n u q a	4 7 1 7	AXBZ	NYKA	29	29.N.C 29.Y.V 29.K.C 29.A.V	2.0 1.5 1.75 0.8	0	8	n	u	q	a
+459	iqui1243	ki	ki	I	k i	1 7	AX	KI	42	42.K.C 42.I.V	2.0 1.5	0	8	-	-	k	i
+504	nort2973	ɲuka	ɲuka	I	ɲ u k a	4 7 1 7	AXBZ	NYKA	68	68.N.C 68.Y.V 68.K.C 68.A.V	2.0 1.5 1.75 0.8	0	8	ɲ	u	k	a
+582	mill1237	ku	ku	I	k u	1 7	AX	KY	58	58.K.C 58.Y.V	2.0 1.5	0	8	-	-	k	u
+														
+19	ayor1240	yu	yu	I	y u	7 7	XZ	YY	9	9.Y.V 9.Y.V	1.5 0.8	0	9	y	-	u	-	-
+20	ayor1240	uuyu	uuyu	I	uu y u	7 7 7	XYZ	YYY	9	9.Y.V 9.Y.V 9.Y.V	1.5 1.3 0.8	0	9	uu	-	y	-	u
+81	iyow1239	yem	yem	I	y e m	7 7 4	XYN	YEM	44	44.Y.V 44.E.V 44.M.c	1.5 1.3 0.8	0	9	y	-	e	m	-
+217	enap1235	yu	yu	I	y u	7 7	XZ	YY	33	33.Y.V 33.Y.V	1.5 0.8	0	9	y	-	u	-	-
+233	sion1247	yiʔi	yiʔi	I	y i ʔ i	7 7 1 7	XYBZ	YIHI	88	88.Y.V 88.I.V 88.H.C 88.I.V	1.5 1.3 1.75 0.8	0	9	y	-	i	ʔ	i
+334	yuwa1244	ye	ye	I	y e	7 7	XZ	YE	115	115.Y.V 115.E.V	1.5 0.8	1	9	y	-	e	-	-
+348	gali1262	awu	awu	I	a w u	7 6 7	XBZ	AWY	36	36.A.V 36.W.C 36.Y.V	1.5 1.75 0.8	0	9	a	w	u	-	-
+404	cash1254	e	e	I	e	7	X	E	17	17.E.V	1.5	0	9	e	-	-	-	-
+														
+26	bari1297	nai	nai	I	n a i	4 7 7	AXZ	NAI	10	10.N.C 10.A.V 10.I.V	2.0 1.5 0.8	0	10	n	a	i
+87	cofa1242	na	na	I	n a	4 7	AX	NA	27	27.N.C 27.A.V	2.0 1.5	0	10	n	a	-
+														
+7	arao1248	yama	yama	I	y a m a	7 7 4 7	XYBZ	YAMA	4	4.Y.V 4.A.V 4.M.C 4.A.V	1.5 1.3 1.75 0.8	0	12	y	a	m	a	-	-
+99	nort2972	mi	mi	I	m i	4 7	AX	MI	67	67.M.C 67.I.V	2.0 1.5	0	12	-	-	m	i	-	-
+104	epen1239	mi	mi	I	m i	4 7	AX	MI	34	34.M.C 34.I.V	2.0 1.5	0	12	-	-	m	i	-	-
+105	epen1239	mici	mici	I	m i c i	4 7 1 7	AXBZ	MICI	34	34.M.C 34.I.V 34.C.C 34.I.V	2.0 1.5 1.75 0.8	0	12	-	-	m	i	c	i
+245	taca1256	ema	ema	I	e m a	7 4 7	XBZ	EMA	91	91.E.V 91.M.C 91.A.V	1.5 1.75 0.8	0	12	-	e	m	a	-	-
+246	taca1256	yama	yama	I	y a m a	7 7 4 7	XYBZ	YAMA	91	91.Y.V 91.A.V 91.M.C 91.A.V	1.5 1.3 1.75 0.8	0	12	y	a	m	a	-	-
+356	sara1340	mi	mi	I	m i	4 7	AX	MI	84	84.M.C 84.I.V	2.0 1.5	0	12	-	-	m	i	-	-
+388	boro1282	imi	imi	I	i m i	7 4 7	XBZ	IMI	12	12.I.V 12.M.C 12.I.V	1.5 1.75 0.8	0	12	-	i	m	i	-	-
+														
+36	cane1242	pa	pa	I	p a	1 7	AX	PA	14	14.P.C 14.A.V	2.0 1.5	0	14	p	a
+37	cane1242	wa	wa	I	w a	6 7	AX	WA	14	14.W.C 14.A.V	2.0 1.5	0	14	w	a
+55	cayu1262	a	a	I	a	7	X	A	19	19.A.V	1.5	0	14	-	a
+294	waya1270	a	a	I	a	7	X	A	104	104.A.V	1.5	0	14	-	a
+														
+396	capa1241	he	he	I	h e	3 7	AX	HE	15	15.H.C 15.E.V	2.0 1.5	0	15	h	e
+														
+6	arao1248	ema	ema	I	e m a	7 4 7	XBZ	EMA	4	4.E.V 4.M.C 4.A.V	1.5 1.75 0.8	0	16	e	m	a
+45	pano1254	ia	ia	I	i a	7 7	XZ	IA	74	74.I.V 74.A.V	1.5 0.8	0	16	i	-	a
+46	pano1254	i	i	I	i	7	X	I	74	74.I.V	1.5	0	16	i	-	-
+191	nina1238	ya	ya	I	y a	7 7	XZ	YA	65	65.Y.V 65.A.V	1.5 0.8	0	16	y	-	a
+215	paca1246	ia	ia	I	i a	7 7	XZ	IA	72	72.I.V 72.A.V	1.5 0.8	0	16	i	-	a
+317	yami1256	i	i	I	i	7	X	I	111	111.I.V	1.5	0	16	i	-	-
+318	yami1256	ia	ia	I	i a	7 7	XZ	IA	111	111.I.V 111.A.V	1.5 0.8	0	16	i	-	a
+400	cash1251	ɨ	ɨ	I	ɨ	7	X	I	16	16.I.V	1.5	0	16	ɨ	-	-
+408	cavi1250	i	i	I	i	7	X	I	18	18.I.V	1.5	0	16	i	-	-
+411	cent2142	na	na	I	n a	4 7	AX	NA	20	20.N.C 20.A.V	2.0 1.5	0	16	-	n	a
+415	chac1249	i	i	I	i	7	X	I	21	21.I.V	1.5	0	16	i	-	-
+419	chac1251	ɨ	ɨ	I	ɨ	7	X	I	22	22.I.V	1.5	0	16	ɨ	-	-
+578	yano1262	ya	ya	I	y a	7 7	XZ	YA	113	113.Y.V 113.A.V	1.5 0.8	0	16	y	-	a
+														
+54	cayu1262	hi	hi	I	h i	3 7	AX	HI	19	19.H.C 19.I.V	2.0 1.5	0	19	h	i	-	-	-	-
+139	kain1272	ʔin	ʔin	I	ʔ i n	1 7 4	AXN	HIN	46	46.H.C 46.I.V 46.N.c	2.0 1.5 0.8	0	19	ʔ	i	n	-	-	-
+163	mash1270	hita	hita	I	h i t a	3 7 1 7	AXBZ	HITA	57	57.H.C 57.I.V 57.T.C 57.A.V	2.0 1.5 1.75 0.8	0	19	h	i	t	a	-	-
+260	trum1247	ha	ha	I	h a	3 7	AX	HA	96	96.H.C 96.A.V	2.0 1.5	0	19	h	a	-	-	-	-
+261	trum1247	hai	hai	I	h a i	3 7 7	AXZ	HAI	96	96.H.C 96.A.V 96.I.V	2.0 1.5 0.8	0	19	h	a	-	i	-	-
+262	trum1247	haits	haits	I	h a i t s	3 7 7 1 3	AXYBC	HAITS	96	96.H.C 96.A.V 96.I.V 96.T.C 96.S.C	2.0 1.5 1.3 1.75 1.5	0	19	h	a	-	i	t	s
+445	djeo1235	ħø	ħø	I	ħ ø	3 7	AX	HU	31	31.H.C 31.U.V	2.0 1.5	0	19	ħ	ø	-	-	-	-
+570	yama1264	haj	haj	I	h a j	3 7 6	AXN	HAJ	110	110.H.C 110.A.V 110.J.c	2.0 1.5 0.8	0	19	h	a	j	-	-	-
+														
+429	chib1270	hyt͡ʃa	hyt͡ʃa	I	h y t͡ʃ a	3 7 2 7	AXBZ	HYCA	24	24.H.C 24.Y.V 24.C.C 24.A.V	2.0 1.5 1.75 0.8	0	24	h	y	t͡ʃ	a	-	-
+474	kunz1244	aka	aka	I	a k a	7 1 7	XBZ	AKA	50	50.A.V 50.K.C 50.A.V	1.5 1.75 0.8	0	24	-	a	k	a	-	-
+559	urar1246	kanʉ	kanʉ	I	k a n ʉ	1 7 4 7	AXBZ	KANY	98	98.K.C 98.A.V 98.N.C 98.Y.V	2.0 1.5 1.75 0.8	0	24	-	-	k	a	n	ʉ
+														
+433	chip1262	wer	wer	I	w e r	6 7 5	AXN	WER	25	25.W.C 25.E.V 25.R.c	2.0 1.5 0.8	0	25	w	e	r
+														
+437	chol1284	ok	ok	I	o k	7 1	XN	UK	26	26.U.V 26.K.c	1.5 0.8	0	26	o	k
+														
+94	colo1256	la	la	I	l a	5 7	AX	LA	28	28.L.C 28.A.V	2.0 1.5	0	28	l	a
+														
+56	cayu1262	ri	ri	I	r i	5 7	AX	RI	19	19.R.C 19.I.V	2.0 1.5	1	30	r	i
+583	dama1000	ra	ra	I	r a	5 7	AX	RA	30	30.R.C 30.A.V	2.0 1.5	0	30	r	a
+														
+75	east2555	ce	ce	I	c e	1 7	AX	CE	32	32.C.C 32.E.V	2.0 1.5	0	32	c	e
+536	ship1254	e	e	I	e	7	X	E	86	86.E.V	1.5	0	32	-	e
+														
+76	east2555	se	se	I	s e	3 7	AX	SE	32	32.S.C 32.E.V	2.0 1.5	0	35	s	e
+449	esee1248	e	e	I	e	7	X	E	35	35.E.V	1.5	0	35	-	e
+														
+57	cayu1262	ro	ro	I	r o	5 7	AX	RU	19	19.R.C 19.U.V	2.0 1.5	0	38	-	r	o	-
+158	macu1259	uuri	uuri	I	uu r i	7 5 7	XBZ	YRI	54	54.Y.V 54.R.C 54.I.V	1.5 1.75 0.8	0	38	uu	r	i	-
+309	yagu1244	ray	ray	I	r a y	5 7 7	AXZ	RAY	109	109.R.C 109.A.V 109.Y.V	2.0 1.5 0.8	0	38	-	r	a	y
+455	hixk1239	uro	uro	I	u r o	7 5 7	XBZ	YRU	38	38.Y.V 38.R.C 38.U.V	1.5 1.75 0.8	0	38	u	r	o	-
+478	leco1242	era	era	I	e r a	7 5 7	XBZ	ERA	51	51.E.V 51.R.C 51.A.V	1.5 1.75 0.8	0	38	e	r	a	-
+														
+152	maca1260	yakhaʔ	yakhaʔ	I	y a k h a ʔ	7 7 1 3 7 1	XYBCYN	YAKHAH	53	53.Y.V 53.A.V 53.K.C 53.H.C 53.A.V 53.H.c	1.5 1.3 1.75 1.5 1.3 0.8	0	39	y	a	k	h	a	ʔ
+340	hupd1244	ʔah	ʔah	I	ʔ a h	1 7 3	AXN	HAH	39	39.H.C 39.A.V 39.H.c	2.0 1.5 0.8	0	39	-	-	-	ʔ	a	h
+														
+124	igna1246	nuti	nuti	I	n u t i	4 7 1 7	AXBZ	NYTI	40	40.N.C 40.Y.V 40.T.C 40.I.V	2.0 1.5 1.75 0.8	0	40	n	u	t	i
+516	pira1253	ti	ti	I	t i	1 7	AX	TI	77	77.T.C 77.I.V	2.0 1.5	1	40	-	-	t	i
+														
+463	jebe1250	kwa	kwa	I	k w a	1 6 7	ACX	KWA	45	45.K.C 45.W.C 45.A.V	2.0 1.5 1.5	0	45	k	w	a
+520	puel1244	kwa	kwa	I	k w a	1 6 7	ACX	KWA	78	78.K.C 78.W.C 78.A.V	2.0 1.5 1.5	0	45	k	w	a
+														
+144	kara1500	jiari	jiari	I	j i a r i	6 7 7 5 7	AXYBZ	JIARI	47	47.J.C 47.I.V 47.A.V 47.R.C 47.I.V	2.0 1.5 1.3 1.75 0.8	0	47	j	i	a	r	i
+														
+467	kari1311	ɨ̃n	ɨ̃n	I	ɨ̃ n	7 4	XN	IN	48	48.I.V 48.N.c	1.5 0.8	0	48	-	-	ɨ̃	n
+486	moch1259	moiɲ	moiɲ	I	m o i ɲ	4 7 7 4	AXYN	MUIN	59	59.M.C 59.U.V 59.I.V 59.N.c	2.0 1.5 1.3 0.8	0	48	m	o	i	ɲ
+														
+471	krik1239	pa	pa	I	p a	1 7	AX	PA	49	49.P.C 49.A.V	2.0 1.5	0	49	p	a
+														
+148	leng1262	koo	koo	I	k oo	1 7	AX	KU	52	52.K.C 52.U.V	2.0 1.5	0	52	k	oo
+														
+40	maqu1238	iwi	iwi	I	i w i	7 6 7	XBZ	IWI	56	56.I.V 56.W.C 56.I.V	1.5 1.75 0.8	0	56	-	i	w	i	-	-
+199	niva1238	yiwaaca	yiwaaca	I	y i w aa c a	7 7 6 7 1 7	XYBYBZ	YIWACA	66	66.Y.V 66.I.V 66.W.C 66.A.V 66.C.C 66.A.V	1.5 1.3 1.75 1.3 1.75 0.8	0	56	y	i	w	aa	c	a
+273	waiw1244	owi	owi	I	o w i	7 6 7	XBZ	UWI	99	99.U.V 99.W.C 99.I.V	1.5 1.75 0.8	0	56	-	o	w	i	-	-
+														
+489	moco1246	jim	jim	I	j i m	6 7 4	AXN	JIM	60	60.J.C 60.I.V 60.M.c	2.0 1.5 0.8	0	60	j	i	m
+														
+492	mose1249	jäe	jäe	I	j ä e	6 7 7	AXZ	JAE	61	61.J.C 61.A.V 61.E.V	2.0 1.5 0.8	0	61	j	ä	e
+														
+172	movi1243	inla	inla	I	i n l a	7 4 5 7	XBCZ	INLA	62	62.I.V 62.N.C 62.L.C 62.A.V	1.5 1.75 1.5 0.8	0	62	i	n	l	a
+														
+179	mund1330	on	on	I	o n	7 4	XN	UN	63	63.U.V 63.N.c	1.5 0.8	0	63	o	n
+														
+496	muni1258	nü	nü	I	n ü	4 7	AX	NY	64	64.N.C 64.Y.V	2.0 1.5	0	64	n	ü
+524	puqu1242	ni	ni	I	n i	4 7	AX	NI	81	81.N.C 81.I.V	2.0 1.5	0	64	n	i
+														
+190	nina1238	kamiye	kamiye	I	k a m i y e	1 7 4 7 7 7	AXBYYZ	KAMIYE	65	65.K.C 65.A.V 65.M.C 65.I.V 65.Y.V 65.E.V	2.0 1.5 1.75 1.3 1.3 0.8	0	65	k	a	m	i	y	e
+														
+330	yavi1244	nuyaha	nuyaha	I	n u y a h a	4 7 7 7 3 7	AXYYBZ	NYYAHA	114	114.N.C 114.Y.V 114.Y.V 114.A.V 114.H.C 114.A.V	2.0 1.5 1.3 1.3 1.75 0.8	0	69	n	u	y	a	h	a
+500	nort2980	yaʔa	yaʔa	I	y a ʔ a	7 7 1 7	XYBZ	YAHA	69	69.Y.V 69.A.V 69.H.C 69.A.V	1.5 1.3 1.75 0.8	0	69	-	-	y	a	ʔ	a
+														
+508	ocai1244	xooúnh	xooúnh	I	x oo ú n h	3 7 7 4 3	AXYLN	GUYNH	70	70.G.C 70.U.V 70.Y.V 70.N.c 70.H.c	2.0 1.5 1.3 1.1 0.8	0	70	x	oo	ú	n	h
+														
+512	onaa1245	ja	ja	I	j a	6 7	AX	JA	71	71.J.C 71.A.V	2.0 1.5	0	71	j	a
+														
+204	paez1247	ad	ad	I	a d	7 1	XN	AT	73	73.A.V 73.T.c	1.5 0.8	0	73	-	a	d	-
+280	waor1240	boto	boto	I	b o t o	1 7 1 7	AXBZ	PUTU	100	100.P.C 100.U.V 100.T.C 100.U.V	2.0 1.5 1.75 0.8	0	73	b	o	t	o
+														
+117	para1311	ce	ce	I	c e	1 7	AX	CE	75	75.C.C 75.E.V	2.0 1.5	0	75	c	e
+528	qawa1238	t͡ʃe	t͡ʃe	I	t͡ʃ e	2 7	AX	CE	82	82.C.C 82.E.V	2.0 1.5	1	75	t͡ʃ	e
+														
+224	pila1245	hayim	hayim	I	h a y i m	3 7 7 7 4	AXYYN	HAYIM	76	76.H.C 76.A.V 76.Y.V 76.I.V 76.M.c	2.0 1.5 1.3 1.3 0.8	0	76	h	a	y	i	m
+														
+228	puin1248	am	am	I	a m	7 4	XN	AM	79	79.A.V 79.M.c	1.5 0.8	0	79	-	-	-	-	a	m
+304	wich1264	olam	olam	I	o l a m	7 5 7 4	XBYN	ULAM	107	107.U.V 107.L.C 107.A.V 107.M.c	1.5 1.75 1.3 0.8	0	79	o	-	l	-	a	m
+360	wich1264	nlham	nlham	I	n l h a m	4 5 3 7 4	AXBYN	NLHAM	107	107.N.C 107.L.V 107.H.C 107.A.V 107.M.c	2.0 1.5 1.75 1.3 0.8	0	79	-	n	l	h	a	m
+563	wich1262	nɬam	nɬam	I	n ɬ a m	4 5 7 4	ACXN	NLAM	106	106.N.C 106.L.C 106.A.V 106.M.c	2.0 1.5 1.5 0.8	0	79	-	n	ɬ	-	a	m
+														
+325	pume1238	kɔde	kɔde	I	k ɔ d e	1 7 1 7	AXBZ	KUTE	80	80.K.C 80.U.V 80.T.C 80.E.V	2.0 1.5 1.75 0.8	0	80	k	ɔ	d	e
+														
+584	sech1236	ɲi	ɲi	I	ɲ i	4 7	AX	NI	85	85.N.C 85.I.V	2.0 1.5	0	85	ɲ	i
+														
+540	shua1257	wi	wi	I	w i	6 7	AX	WI	87	87.W.C 87.I.V	2.0 1.5	0	87	w	i
+														
+240	siri1273	se	se	I	s e	3 7	AX	SE	89	89.S.C 89.E.V	2.0 1.5	0	89	s	e
+														
+544	sout2996	naja	naja	I	n a j a	4 7 6 7	AXBZ	NAJA	90	90.N.C 90.A.V 90.J.C 90.A.V	2.0 1.5 1.75 0.8	0	90	n	a	j	a
+														
+548	tari1256	nu	nu	I	n u	4 7	AX	NY	92	92.N.C 92.Y.V	2.0 1.5	0	92	n	u
+														
+552	tehu1242	ja:	ja:	I	j a:	6 7	AX	JA	93	93.J.C 93.A.V	2.0 1.5	0	93	j	a:
+														
+556	toba1269	ajem	ajem	I	a j e m	7 6 7 4	XBYN	AJEM	94	94.A.V 94.J.C 94.E.V 94.M.c	1.5 1.75 1.3 0.8	0	94	a	j	e	m
+														
+268	tuyu1244	yii	yii	I	y ii	7 7	XZ	YI	97	97.Y.V 97.I.V	1.5 0.8	0	97	y	ii
+														
+205	paez1247	uʔkwe	uʔkwe	I	u ʔ k w e	7 1 1 6 7	XMBCZ	YHKWE	73	73.Y.V 73.H.c 73.K.C 73.W.C 73.E.V	1.5 1.1 1.75 1.5 0.8	0	101	u	ʔ	k	-	w	e
+285	wapi1253	ugari	ugari	I	u g a r i	7 1 7 5 7	XBYBZ	YKARI	101	101.Y.V 101.K.C 101.A.V 101.R.C 101.I.V	1.5 1.75 1.3 1.75 0.8	0	101	u	-	g	a	r	i
+														
+210	wari1268	wataʔ	wataʔ	I	w a t a ʔ	6 7 1 7 1	AXBYN	WATAH	102	102.W.C 102.A.V 102.T.C 102.A.V 102.H.c	2.0 1.5 1.75 1.3 0.8	0	102	w	a	t	a	ʔ
+														
+290	waur1244	natu	natu	I	n a t u	4 7 1 7	AXBZ	NATY	103	103.N.C 103.A.V 103.T.C 103.Y.V	2.0 1.5 1.75 0.8	0	103	n	a	t	u
+														
+112	wayu1243	taya	taya	I	t a y a	1 7 7 7	AXYZ	TAYA	105	105.T.C 105.A.V 105.Y.V 105.A.V	2.0 1.5 1.3 0.8	0	105	t	a	y	a
+295	waya1270	iye	iye	I	i y e	7 7 7	XYZ	IYE	104	104.I.V 104.Y.V 104.E.V	1.5 1.3 0.8	0	105	-	i	y	e
+														
+567	xava1240	ʔwa	ʔwa	I	ʔ w a	1 6 7	ACX	HWA	108	108.H.C 108.W.C 108.A.V	2.0 1.5 1.5	0	108	ʔ	w	a

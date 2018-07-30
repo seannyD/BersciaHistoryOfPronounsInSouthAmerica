@@ -1,0 +1,102 @@
+ID	DOCULECT	IPA	COUNTERPART	CONCEPT	TOKENS	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	DUPLICATES	COGNATES	ALIGNMENT
+365	agua1253	amɨ	amɨ	you	a m ɨ	7 4 7	XBZ	AMI	2	2.A.V 2.M.C 2.I.V	1.5 1.75 0.8	0	412	a	m	ɨ
+														
+369	amar1274	õn	õn	you	õ n	7 4	XN	UN	3	3.U.V 3.N.c	1.5 0.8	0	413	-	õ	n	-
+509	ocai1244	ooúnh	ooúnh	you	oo ú n h	7 7 4 3	XYLN	UYNH	70	70.U.V 70.Y.V 70.N.c 70.H.c	1.5 1.3 1.1 0.8	0	413	oo	ú	n	h
+														
+373	arhu1242	ma	ma	you	m a	4 7	AX	MA	5	5.M.C 5.A.V	2.0 1.5	0	414	m	a
+586	dama1000	ma	ma	you	m a	4 7	AX	MA	30	30.M.C 30.A.V	2.0 1.5	0	414	m	a
+														
+377	ashe1272	pi	pi	you	p i	1 7	AX	PI	6	6.P.C 6.I.V	2.0 1.5	0	415	p	i
+549	tari1256	pi	pi	you	p i	1 7	AX	PI	92	92.P.C 92.I.V	2.0 1.5	0	415	p	i
+														
+381	awac1239	nu	nu	you	n u	4 7	AX	NY	7	7.N.C 7.Y.V	2.0 1.5	0	416	-	n	u
+453	guam1248	ɲi	ɲi	you	ɲ i	4 7	AX	NI	37	37.N.C 37.I.V	2.0 1.5	0	416	-	ɲ	i
+468	kari1311	ãn	ãn	you	ã n	7 4	XN	AN	48	48.A.V 48.N.c	1.5 0.8	0	416	ã	n	-
+														
+385	ayac1239	qam	qam	you	q a m	1 7 4	AXN	KAM	8	8.K.C 8.A.V 8.M.c	2.0 1.5 0.8	0	417	-	q	a	m	-
+389	boro1282	aki	aki	you	a k i	7 1 7	XBZ	AKI	12	12.A.V 12.K.C 12.I.V	1.5 1.75 0.8	0	417	a	k	i	-	-
+424	chay1248	kɨma	kɨma	you	k ɨ m a	1 7 4 7	AXBZ	KIMA	23	23.K.C 23.I.V 23.M.C 23.A.V	2.0 1.5 1.75 0.8	0	417	-	k	ɨ	m	a
+442	cusc1236	qam	qam	you	q a m	1 7 4	AXN	KAM	29	29.K.C 29.A.V 29.M.c	2.0 1.5 0.8	0	417	-	q	a	m	-
+460	iqui1243	kia	kia	you	k i a	1 7 7	AXZ	KIA	42	42.K.C 42.I.V 42.A.V	2.0 1.5 0.8	0	417	-	k	i	-	a
+505	nort2973	kam	kam	you	k a m	1 7 4	AXN	KAM	68	68.K.C 68.A.V 68.M.c	2.0 1.5 0.8	0	417	-	k	a	m	-
+														
+393	cand1248	shi	shi	you	s h i	3 3 7	ACZ	SHI	13	13.S.C 13.H.C 13.I.V	2.0 1.5 0.8	0	419	s	h	i
+														
+397	capa1241	mi	mi	you	m i	4 7	AX	MI	15	15.M.C 15.I.V	2.0 1.5	0	420	m	i
+														
+401	cash1251	mi	mi	you	m i	4 7	AX	MI	16	16.M.C 16.I.V	2.0 1.5	0	421	m	i
+409	cavi1250	mi	mi	you	m i	4 7	AX	MI	18	18.M.C 18.I.V	2.0 1.5	0	421	m	i
+420	chac1251	mi	mi	you	m i	4 7	AX	MI	22	22.M.C 22.I.V	2.0 1.5	0	421	m	i
+														
+405	cash1254	mi	mi	you	m i	4 7	AX	MI	17	17.M.C 17.I.V	2.0 1.5	0	422	m	i
+														
+412	cent2142	huma	huma	you	h u m a	3 7 4 7	AXBZ	HYMA	20	20.H.C 20.Y.V 20.M.C 20.A.V	2.0 1.5 1.75 0.8	0	424	h	u	m	a
+545	sout2996	huma	huma	you	h u m a	3 7 4 7	AXBZ	HYMA	90	90.H.C 90.Y.V 90.M.C 90.A.V	2.0 1.5 1.75 0.8	0	424	h	u	m	a
+														
+416	chac1249	ɲu	ɲu	you	ɲ u	4 7	AX	NY	21	21.N.C 21.Y.V	2.0 1.5	0	425	ɲ	u
+														
+430	chib1270	mué	mué	you	m u é	4 7 7	AXZ	MYE	24	24.M.C 24.Y.V 24.E.V	2.0 1.5 0.8	0	428	m	u	é
+														
+434	chip1262	am	am	you	a m	7 4	XN	AM	25	25.A.V 25.M.c	1.5 0.8	0	429	a	m
+														
+438	chol1284	mi	mi	you	m i	4 7	AX	MI	26	26.M.C 26.I.V	2.0 1.5	0	430	m	i
+														
+446	djeo1235	ʔad͡ʒe	ʔad͡ʒe	you	ʔ a d͡ʒ e	1 7 2 7	AXBZ	HACE	31	31.H.C 31.A.V 31.C.C 31.E.V	2.0 1.5 1.75 0.8	0	433	ʔ	a	d͡ʒ	e
+														
+450	esee1248	mi	mi	you	m i	4 7	AX	MI	35	35.M.C 35.I.V	2.0 1.5	0	434	m	i
+														
+456	hixk1239	omoro	omoro	you	o m o r o	7 4 7 5 7	XBYBZ	UMURU	38	38.U.V 38.M.C 38.U.V 38.R.C 38.U.V	1.5 1.75 1.3 1.75 0.8	0	436	o	m	o	r	o
+														
+464	jebe1250	kɨnma	kɨnma	you	k ɨ n m a	1 7 4 4 7	AXMBZ	KINMA	45	45.K.C 45.I.V 45.N.c 45.M.C 45.A.V	2.0 1.5 1.1 1.75 0.8	0	438	k	ɨ	n	m	a
+														
+472	krik1239	ka	ka	you	k a	1 7	AX	KA	49	49.K.C 49.A.V	2.0 1.5	0	440	k	a
+														
+475	kunz1244	t͡ʃema	t͡ʃema	you	t͡ʃ e m a	2 7 4 7	AXBZ	CEMA	50	50.C.C 50.E.V 50.M.C 50.A.V	2.0 1.5 1.75 0.8	0	441	t͡ʃ	e	m	a
+														
+479	leco1242	ija	ija	you	i j a	7 6 7	XBZ	IJA	51	51.I.V 51.J.C 51.A.V	1.5 1.75 0.8	0	442	i	j	a
+														
+483	mapu1245	ejmi	ejmi	you	e j m i	7 6 4 7	XMBZ	EJMI	55	55.E.V 55.J.c 55.M.C 55.I.V	1.5 1.1 1.75 0.8	0	443	e	j	m	i
+														
+585	mill1237	ka	ka	you	k a	1 7	AX	KA	58	58.K.C 58.A.V	2.0 1.5	0	444	k	a
+														
+487	moch1259	t͡ʃang	t͡ʃang	you	t͡ʃ a n g	2 7 4 1	AXLN	CANK	59	59.C.C 59.A.V 59.N.c 59.K.c	2.0 1.5 1.1 0.8	0	445	t͡ʃ	a	n	g
+														
+490	moco1246	qamʔ	qamʔ	you	q a m ʔ	1 7 4 1	AXLN	KAMH	60	60.K.C 60.A.V 60.M.c 60.H.c	2.0 1.5 1.1 0.8	0	446	q	a	m	ʔ
+														
+493	mose1249	mi	mi	you	m i	4 7	AX	MI	61	61.M.C 61.I.V	2.0 1.5	1	447	-	m	i
+564	wich1262	am	am	you	a m	7 4	XN	AM	106	106.A.V 106.M.c	1.5 0.8	0	447	a	m	-
+														
+497	muni1258	pü	pü	you	p ü	1 7	AX	PY	64	64.P.C 64.Y.V	2.0 1.5	0	448	p	ü
+525	puqu1242	pi	pi	you	p i	1 7	AX	PI	81	81.P.C 81.I.V	2.0 1.5	0	448	p	i
+														
+501	nort2980	ʔam	ʔam	you	ʔ a m	1 7 4	AXN	HAM	69	69.H.C 69.A.V 69.M.c	2.0 1.5 0.8	0	450	ʔ	a	m
+568	xava1240	ʔa	ʔa	you	ʔ a	1 7	AX	HA	108	108.H.C 108.A.V	2.0 1.5	0	450	ʔ	a	-
+														
+513	onaa1245	ma	ma	you	m a	4 7	AX	MA	71	71.M.C 71.A.V	2.0 1.5	0	452	m	a
+														
+517	pira1253	giʔái	giʔái	you	g i ʔ á i	1 7 1 7 7	AXBYZ	KIHAI	77	77.K.C 77.I.V 77.H.C 77.A.V 77.I.V	2.0 1.5 1.75 1.3 0.8	0	453	g	i	ʔ	á	i
+														
+521	puel1244	kɨmaw	kɨmaw	you	k ɨ m a w	1 7 4 7 6	AXBYN	KIMAW	78	78.K.C 78.I.V 78.M.C 78.A.V 78.W.c	2.0 1.5 1.75 1.3 0.8	0	454	k	ɨ	m	a	w
+														
+529	qawa1238	t͡ʃaw	t͡ʃaw	you	t͡ʃ a w	2 7 6	AXN	CAW	82	82.C.C 82.A.V 82.W.c	2.0 1.5 0.8	0	456	t͡ʃ	a	w
+														
+533	sanb1242	pa	pa	you	p a	1 7	AX	PA	83	83.P.C 83.A.V	2.0 1.5	0	457	p	a
+														
+587	sech1236	ma	ma	you	m a	4 7	AX	MA	85	85.M.C 85.A.V	2.0 1.5	0	458	m	a
+														
+537	ship1254	mi	mi	you	m i	4 7	AX	MI	86	86.M.C 86.I.V	2.0 1.5	0	459	m	i
+														
+541	shua1257	amɨ	amɨ	you	a m ɨ	7 4 7	XBZ	AMI	87	87.A.V 87.M.C 87.I.V	1.5 1.75 0.8	0	460	a	m	ɨ
+														
+553	tehu1242	ma:	ma:	you	m a:	4 7	AX	MA	93	93.M.C 93.A.V	2.0 1.5	0	463	m	a:
+														
+557	toba1269	ʔam	ʔam	you	ʔ a m	1 7 4	AXN	HAM	94	94.H.C 94.A.V 94.M.c	2.0 1.5 0.8	0	464	ʔ	a	m
+														
+560	urar1246	i:	i:	you	i:	7	X	I	98	98.I.V	1.5	0	465	i:
+														
+571	yama1264	sa	sa	you	s a	3 7	AX	SA	110	110.S.C 110.A.V	2.0 1.5	0	468	s	a
+														
+575	yane1238	pa	pa	you	p a	1 7	AX	PA	112	112.P.C 112.A.V	2.0 1.5	0	469	p	a
+														
+579	yano1262	wa	wa	you	w a	6 7	AX	WA	113	113.W.C 113.A.V	2.0 1.5	0	470	w	a

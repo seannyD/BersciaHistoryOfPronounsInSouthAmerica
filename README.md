@@ -1,4 +1,4 @@
-# BersciaHistoryOfPronounsInSouthAmerica
+# History Of Pronouns In South America
 
 This is a repository of the final output data for Berscia et al. "The history of pronouns in South America, a first Bayesian phylogenetic analysis".  Note that some of the analysis scripts assume that data from Glottolog is available.
 
