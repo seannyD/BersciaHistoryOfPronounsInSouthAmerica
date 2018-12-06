@@ -1,0 +1,667 @@
+ID	DOCULECT	IPA	CONCEPT	COGID	ALIGNMENT
+1	agua1253	wi	I	16	- - w i - - - - - - -
+2	shua1257	wi	I	16	- - w i - - - - - - -
+3	tuyu1244	yii	I	16	- - j ii - - - - - - -
+4	tehu1242	ja:	I	16	- - j a: - - - - - - -
+5	cane1242	pa	I	16	- - p a - - - - - - -
+6	cane1242	wa	I	16	- - w a - - - - - - -
+7	cayu1262	a	I	16	- - - a - - - - - - -
+8	waya1270	a	I	16	- - - a - - - - - - -
+9	xava1240	ʔwa	I	16	ʔ - w a - - - - - - -
+10	pano1254	ia	I	16	- - i a - - - - - - -
+11	pano1254	i	I	16	- - i - - - - - - - -
+12	nina1238	ya	I	16	- - j a - - - - - - -
+13	paca1246	ia	I	16	- - i a - - - - - - -
+14	yami1256	i	I	16	- - i - - - - - - - -
+15	yami1256	ia	I	16	- - i a - - - - - - -
+16	cash1251	ɨ	I	16	- - ɨ - - - - - - - -
+17	cavi1250	i	I	16	- - i - - - - - - - -
+18	onaa1245	ja	I	16	- - j a - - - - - - -
+19	wayu1243	taya	I	16	t a j a - - - - - - -
+20	waya1270	iye	I	16	- i j e - - - - - - -
+21	chac1249	i	I	16	- - i - - - - - - - -
+22	chac1251	ɨ	I	16	- - ɨ - - - - - - - -
+23	yano1262	ya	I	16	- - j a - - - - - - -
+24	chip1262	wer	I	16	- - w e - - - - - - -
+25	maca1260	yakhaʔ	I	16	- - y a - - - - - - -
+26	esee1248	e	I	16	- - e - - - - - - - -
+27	krik1239	pa	I	16	- - p a - - - - - - -
+28	maqu1238	iwi	I	16	- i w i - - - - - - -
+29	niva1238	yiwaaca	I	16	- - w aa - - - - - - -
+30	waiw1244	owi	I	16	- o w i - - - - - - -
+31	ship1254	e	I	16	- - e - - - - - - - -
+32	toba1269	ajem	I	16	- a j e - - - - - - -
+33	kara1500	jiari	I	16	- - j i a - - - - - -
+34	tuyu1244	yii	I	16	- - j ii - - - - - - -
+35	moco1246	jim	I	16	- - j i - - - - - - -
+36	nort2980	yaʔa	I	16	- - j a - - - - - - -
+37	mose1249	jäe	I	16	- - j ä e - - - - - -
+38	wari1268	wataʔ	I	16	- - w a - - - - - - -
+39	orow1243	wataʔ	I	16	- - w a - - - - - - -
+40	wany1246	wataʔ	I	16	- - w a - - - - - - -
+41	urup1245	wata	I	16	- - w a - - - - - - -
+42	tora1263	waza	I	16	- - w a - - - - - - -
+43	kuyu1236	waza	I	16	- - w a - - - - - - -
+44	iten1243	waʒa	I	16	- - w a - - - - - - -
+45	chap1269	waja	I	16	- - w a - - - - - - -
+46	kite1237	waja	I	16	- - w a - - - - - - -
+47	arao1248	yama	I	16	- - j a - - - - - - -
+48	taca1256	yama	I	16	- - j a - - - - - - -
+49	yavi1244	nuyaha	I	16	- - j a - - - - - - -
+50	sout2996	naja	I	16	- - j a - - - - - - -
+51	chap1269	waja	I	16	- - y a - - - - - - -
+52	kite1237	waja	I	16	- - y a - - - - - - -
+53	nina1238	kamije	I	16	- - y e - - - - - - -
+54	pila1245	hayim	I	16	- - y i - m - - - - -
+55	paez1247	uʔkwe	I	16	- - w e - - - - - - -
+56	baur1253	ni	I	6	- - - n i - - - - - -
+57	baur1253	nti	I	6	- - - n - - - - - - -
+58	iton1250	osni	I	6	- o s n i - - - - - -
+59	iton1250	osniʔka	I	6	- o s n i - ʔ - - - -
+60	mash1270	no	I	6	- - - n o - - - - - -
+61	trin1274	n	I	6	- - - n - - - - - - -
+62	ashe1272	no	I	6	- - - n o - - - - - -
+63	awac1239	na	I	6	- - - n a - - - - - -
+64	cand1248	no	I	6	- - - n o - - - - - -
+65	guam1248	na	I	6	- - - n a - - - - - -
+66	yane1238	na	I	6	- - - n a - - - - - -
+67	igna1246	nuti	I	6	- - - n u - - - - - -
+68	muni1258	nü	I	6	- - - n ü - - - - - -
+69	puqu1242	ni	I	6	- - - n i - - - - - -
+70	mund1330	on	I	6	- - o n - - - - - - -
+71	yavi1244	nuyaha	I	6	- - - n u - - - - - -
+72	waur1244	natu	I	6	- - - n a - - - - - -
+73	sout2996	naja	I	6	- - - n a - - - - - -
+74	tari1256	nu	I	6	- - - n u - - - - - -
+75	amar1274	ndoʔ	I	6	- - - n - - - - - - -
+76	arhu1242	nʉn	I	6	- - - n ʉ n - - - - -
+77	mapu1245	iɲt͡ʃe	I	6	- - i ɲ - - - - - - -
+78	sanb1242	an	I	6	- - a n - - - - - - -
+79	imba1240	nuka	I	6	- - - n u - - - - - -
+80	ayac1239	ɲuqa	I	6	- - - ɲ u - - - - - -
+81	cusc1236	nuqa	I	6	- - - n u - - - - - -
+82	nort2973	ɲuka	I	6	- - - ɲ u - - - - - -
+83	bari1297	nai	I	6	- - - n ai - - - - - -
+84	cofa1242	na	I	6	- - - n a - - - - - -
+85	cent2142	na	I	6	- - - n a - - - - - -
+86	moch1259	moiɲ	I	6	- - i ɲ - - - - - - -
+87	kari1311	ɨ̃n	I	6	- - ɨ̃ n - - - - - - -
+88	urar1246	kanʉ	I	6	- - - n ʉ - - - - - -
+89	yavi1244	nuyaha	I	8	- - - h a - - - - - -
+90	iton1250	osniʔka	I	8	- - - k a - - - - - -
+91	cofa1242	gi	I	8	- - - g - i - - - - -
+92	colo1256	cike	I	8	c i - k - e - - - - -
+93	imba1240	nuka	I	8	- - - k - a - - - - -
+94	ayac1239	ɲuqa	I	8	- - - q - a - - - - -
+95	chay1248	ka	I	8	- - - k - a - - - - -
+96	cusc1236	nuqa	I	8	- - - q - a - - - - -
+97	iqui1243	ki	I	8	- - - k - i - - - - -
+98	nort2973	ɲuka	I	8	- - - k - a - - - - -
+99	mill1237	ku	I	8	- - - k u - - - - - -
+100	jebe1250	kwa	I	8	- - - k w a - - - - -
+101	puel1244	kwa	I	8	- - - k w a - - - - -
+102	cayu1262	hi	I	8	- - - h - i - - - - -
+103	kain1272	ʔin	I	8	- - - ʔ - i n - - - -
+104	mash1270	hita	I	8	- - - h - i - - - - -
+105	trum1247	ha	I	8	- - - h - a - - - - -
+106	trum1247	hai	I	8	- - - h - a - i - - -
+107	trum1247	haits	I	8	- - - h - a - i t - s
+108	djeo1235	ħø	I	8	- - - ħ ø - - - - - -
+109	yama1264	haj	I	8	- - - h - a - j - - -
+110	leng1262	koo	I	8	- - - k oo - - - - - -
+111	chol1284	ok	I	8	- o - k - - - - - - -
+112	nina1238	kamije	I	8	- - - k a - - - - - -
+113	ache1246	co	I	8	- - - c o - - - - - -
+114	capa1241	he	I	8	- - - h e - - - - - -
+115	chib1270	hyt͡ʃa	I	8	- - - h y - - - - - -
+116	kunz1244	aka	I	8	- a - k a - - - - - -
+117	urar1246	kanʉ	I	8	- - - k a - - - - - -
+118	maca1260	yakhaʔ	I	8	- - - kh - a - - - - ʔ
+119	pume1238	kɔde	I	8	- - - k ɔ - - - - - -
+120	pila1245	hayim	I	8	- - - h a - - - - - -
+121	east2555	ce	I	8	- - - c e - - - - - -
+122	para1311	ce	I	8	- - - c e - - - - - -
+123	qawa1238	t͡ʃe	I	8	- - - t͡ʃ e - - - - - -
+124	paez1247	uʔkwe	I	8	u u ʔ k - - - - - - -
+125	wapi1253	ugari	I	8	u u - g a - - - r i -
+126	nort2980	yaʔa	I	8	- - - ʔ a - - - - - -
+127	ocai1244	xooúnh	I	8	- - - x oo ú n h n - h
+128	hupd1244	ʔah	I	8	- - - ʔ a - - - - - h
+129	arao1248	yama	I	12	- - - - - m a - - - -
+130	nort2972	mi	I	12	- - - - - m i - - - -
+131	epen1239	mi	I	12	- - - - - m i - - - -
+132	epen1239	mici	I	12	- - - - - m i - - - -
+133	taca1256	ema	I	12	- - - - e m a - - - -
+134	taca1256	yama	I	12	- - - - - m a - - - -
+135	boro1282	imi	I	12	- - - - i m i - - - -
+136	arao1248	ema	I	12	- - - - e m a - - - -
+137	puin1248	am	I	12	- - - - a m - - - - -
+138	wich1264	olam	I	12	o - l - a m - - - - -
+139	wich1264	nlham	I	12	- n l h a m - - - - -
+140	wich1262	nɬam	I	12	- n ɬ - a m - - - - -
+141	moch1259	moiɲ	I	12	- - - - - m o - - - -
+142	toba1269	ajem	I	12	- - - - - m - - - - -
+143	moco1246	jim	I	12	- - - - - m - - - - -
+144	nina1238	kamije	I	12	- - - - - m i - - - -
+145	colo1256	la	I	30	- - - l a - - - - - -
+146	cayu1262	ri	I	30	- - - r i - - - - - -
+147	mala1522	ra	I	30	- - - r a - - - - - -
+148	cayu1262	ro	I	30	- - - r o - - - - - -
+149	macu1259	uuri	I	30	- uu - r i - - - - - -
+150	yagu1244	ray	I	30	- - - r a j - - - - -
+151	hixk1239	uro	I	30	- u - r o - - - - - -
+152	leco1242	era	I	30	- e - r a - - - - - -
+153	chip1262	wer	I	30	- - - r - - - - - - -
+154	kara1500	jiari	I	30	- - - r i - - - - - -
+155	movi1243	inla	I	30	i i n l a - - - - - -
+156	waur1244	natu	I	40	- - t u - - - - - - -
+157	igna1246	nuti	I	40	- - t i - - - - - - -
+158	mapu1245	iɲt͡ʃe	I	40	- - t͡ʃ e - - - - - - -
+159	baur1253	nti	I	40	- - t i - - - - - - -
+160	pira1253	ti	I	40	- - t i - - - - - - -
+161	para1311	ce	I	40	- - c e - - - - - - -
+162	qawa1238	t͡ʃe	I	40	- - t͡ʃ e - - - - - - -
+163	paez1247	ad	I	40	- a d - - - - - - - -
+164	waor1240	boto	I	40	b o t o - - - - - - -
+165	east2555	se	I	40	- - s e - - - - - - -
+166	siri1273	se	I	40	- - s e - - - - - - -
+167	wari1268	wataʔ	I	40	- - t a ʔ - - - - - -
+168	orow1243	wataʔ	I	40	- - t a ʔ - - - - - -
+169	wany1246	wataʔ	I	40	- - t a ʔ - - - - - -
+170	urup1245	wata	I	40	- - t a - - - - - - -
+171	tora1263	waza	I	40	- - z a - - - - - - -
+172	kuyu1236	waza	I	40	- - z a - - - - - - -
+173	iten1243	waʒa	I	40	- - ʒ a - - - - - - -
+174	niva1238	yiwaaca	I	40	- - c a - - - - - - -
+175	wayu1243	taya	I	40	- - t a - - - - - - -
+176	amar1274	ndoʔ	I	40	- - d o ʔ - - - - - -
+177	mash1270	hita	I	40	- - t a - - - - - - -
+178	epen1239	mici	I	40	- - c i - - - - - - -
+179	chib1270	hyt͡ʃa	I	40	- - t͡ʃ a - - - - - - -
+180	pume1238	kɔde	I	40	- - d e - - - - - - -
+181	wapi1253	ugari	I	40	- - r i - - - - - - -
+182	ocai1244	ooúnh	you	416	oo ú n - h - - - - - - - -
+183	amar1274	õn	you	416	- õ n - - - - - - - - - -
+184	awac1239	nu	you	416	- - n u - - - - - - - - -
+185	guam1248	ɲi	you	416	- - ɲ i - - - - - - - - -
+186	kari1311	ãn	you	416	- ã n - - - - - - - - - -
+187	chac1249	ɲu	you	416	- - ɲ u - - - - - - - - -
+188	colo1256	nu	you	416	- - n u - - - - - - - - -
+189	mund1330	en	you	416	- e n - - - - - - - - - -
+190	ayac1239	qam	you	417	- - - q a - - - - - - - -
+191	boro1282	aki	you	417	- a - k i - - - - - - - -
+192	chay1248	kɨma	you	417	- - - k ɨ - - - - - - - -
+193	cusc1236	qam	you	417	- - - q a - - - - - - - -
+194	iqui1243	kia	you	417	- - - k i - - - - - - - -
+195	nort2973	kam	you	417	- - - k a - - - - - - - -
+196	puel1244	kɨmaw	you	417	- - - k ɨ - - - - - - - -
+197	jebe1250	kɨnma	you	417	- - - k ɨ n - - - - - - -
+198	kunz1244	t͡ʃema	you	417	- - - t͡ʃ e - - - - - - - -
+199	cent2142	huma	you	417	- - - h u - - - - - - - -
+200	sout2996	huma	you	417	- - - h u - - - - - - - -
+201	nort2980	ʔam	you	417	- - - ʔ a - - - - - - - -
+202	tehu1242	kma:	you	417	- - - k - - - - - - - - -
+203	nort2980	ʔam	you	417	- - - ʔ a - - - - - - - -
+204	mill1237	ka	you	417	- - - k a - - - - - - - -
+205	krik1239	ka	you	417	- - - k a - - - - - - - -
+206	moco1246	qamʔ	you	417	- - - q a - - - - - - - -
+207	xava1240	ʔa	you	417	- - - ʔ a - - - - - - - -
+208	toba1269	ʔam	you	417	- - - ʔ a - - - - - - - -
+209	pira1253	giʔái	you	417	- - - g i - - - - ʔ ái - i
+210	cane1242	ka	you	417	- - - k a - - - - - - - -
+211	hupd1244	ʔam	you	417	- - - ʔ a - - - - - - - -
+212	pila1245	ʔam	you	417	- - - ʔ a - - - - - - - -
+213	iton1250	oʔni	you	417	- o - ʔ - n - i - - - - -
+214	iton1250	koʔni	you	417	- - - k oʔ n - i - - - - -
+215	paez1247	iʔkwe	you	417	- iʔ - k - - w e - - - - -
+216	siri1273	ne	you	417	- - - - - n - e - - - - -
+217	waya1270	ene	you	417	- e - - - n - e - - - - -
+218	imba1240	kan	you	417	- - - k a n - - - - - - -
+219	nina1238	kahowa	you	417	- - - k a - - - - h o w a
+220	yuwa1244	ke	you	417	- - - k e - - - - - - - -
+221	trum1247	hi	you	417	- - - h i - - - - - - - -
+222	kara1500	kai	you	417	- - - k ai - - - - - - - -
+223	kain1272	ʔa	you	417	- - - ʔ a - - - - - - - -
+224	yagu1244	hi	you	417	- - - h i - - - - - - - -
+225	cofa1242	ke	you	417	- - - k e - - - - - - - -
+226	maca1260	akhaʔ	you	417	- a - kh a - - a - ʔ - - -
+227	wapi1253	pigari	you	417	p i - g a r - i - - - - -
+228	movi1243	ulkan	you	417	- u l k a n - - - - - - -
+229	ayac1239	qam	you	421	- - - - - m - - - - - - -
+230	chay1248	kɨma	you	421	- - - - - m a - - - - - -
+231	cusc1236	qam	you	421	- - - - - m - - - - - - -
+232	toba1269	ʔam	you	421	- - - - - m - - - - - - -
+233	moco1246	qamʔ	you	421	- - - - - m ʔ - - - - - -
+234	nort2973	kam	you	421	- - - - - m - - - - - - -
+235	puel1244	kɨmaw	you	421	- - - - - m a w - - - - -
+236	jebe1250	kɨnma	you	421	- - - - - m a - - - - - -
+237	kunz1244	t͡ʃema	you	421	- - - - - m a - - - - - -
+238	cent2142	huma	you	421	- - - - - m a - - - - - -
+239	sout2996	huma	you	421	- - - - - m a - - - - - -
+240	nort2980	ʔam	you	421	- - - - - m - - - - - - -
+241	tehu1242	kma:	you	421	- - - - - m a: - - - - - -
+242	nort2980	ʔam	you	421	- - - - - m - - - - - - -
+243	capa1241	mi	you	421	- - - - - m i - - - - - -
+244	cash1251	mi	you	421	- - - - - m i - - - - - -
+245	cavi1250	mi	you	421	- - - - - m i - - - - - -
+246	chac1251	mi	you	421	- - - - - m i - - - - - -
+247	cash1254	mi	you	421	- - - - - m i - - - - - -
+248	arhu1242	ma	you	421	- - - - - m a - - - - - -
+249	mala1522	ma	you	421	- - - - - m a - - - - - -
+250	mose1249	mi	you	421	- - - - - m i - - - - - -
+251	ship1254	mi	you	421	- - - - - m i - - - - - -
+252	agua1253	amɨ	you	421	a - - - - m ɨ - - - - - -
+253	wich1262	am	you	421	a - - - - m - - - - - - -
+254	chib1270	mué	you	421	- - - - - m u - é - - - -
+255	chip1262	am	you	421	a - - - - m - - - - - - -
+256	chol1284	mi	you	421	- - - - - m i - - - - - -
+257	esee1248	mi	you	421	- - - - - m i - - - - - -
+258	mapu1245	ejmi	you	421	- - - ej - m i - - - - - -
+259	onaa1245	ma	you	421	- - - - - m a - - - - - -
+260	shua1257	amɨ	you	421	a - - - - m ɨ - - - - - -
+261	hixk1239	omoro	you	421	o - - - - m o r o - - - -
+262	wari1268	wum	you	421	- w - u - m - - - - - - -
+263	orow1243	wym	you	421	- w - y - m - - - - - - -
+264	wany1246	im	you	421	- - - i - m - - - - - - -
+265	urup1245	vim	you	421	- v - i - m - - - - - - -
+266	tora1263	webm	you	421	- w - e b m - - - - - - -
+267	kuyu1236	um	you	421	- - - u - m - - - - - - -
+268	chap1269	awimo	you	421	a w - i - m o - - - - - -
+269	kite1237	ahum	you	421	a - h u - m - - - - - - -
+270	iten1243	momra	you	421	- m - o - m - r a - - - -
+271	arao1248	mi	you	421	- - - - - m i - - - - - -
+272	arao1248	mija	you	421	- - - - - m i j a - - - -
+273	arao1248	mijaha	you	421	- - - - - m i j a h a - -
+274	maqu1238	əmədə	you	421	ə - - - - m ə d ə - - - -
+275	pano1254	mia	you	421	- - - - - m i - a - - - -
+276	pano1254	mi	you	421	- - - - - m i - - - - - -
+277	puin1248	mam	you	421	- m - a - m - - - - - - -
+278	sion1247	miʔi	you	421	- - - - - m i - - ʔ i - -
+279	taca1256	mida	you	421	- - - - - m i d a - - - -
+280	taca1256	miada	you	421	- - - - - m ia d a - - - -
+281	waiw1244	amoro	you	421	a - - - - m o r o - - - -
+282	yami1256	mi	you	421	- - - - - m i - - - - - -
+283	yami1256	mia	you	421	- - - - - m ia - - - - - -
+284	pume1238	mene	you	421	- - - - - m e n e - - - -
+285	macu1259	amiri	you	421	a - - - - m i r i - - - -
+286	enap1235	amən	you	421	a - - - - m ə n - - - - -
+287	gali1262	amolo	you	421	a - - - - m o l o - - - -
+288	iyow1239	am	you	421	a - - - - m - - - - - - -
+289	wich1264	am	you	421	a - - - - m - - - - - - -
+290	wich1264	am	you	421	a - - - - m - - - - - - -
+291	hupd1244	ʔam	you	421	- - - - - m - - - - - - -
+292	pila1245	ʔam	you	421	- - - - - m - - - - - - -
+293	leng1262	liyip	you	491	l i j i - - - p - - - - -
+294	leng1262	liyi	you	491	l i j i - - - - - - - - -
+295	yavi1244	hiyaha	you	491	h i j a h a a - - - - - -
+296	leco1242	ija	you	491	- i j a - - - - - - - - -
+297	yano1262	wa	you	491	- - w a - - - - - - - - -
+298	urar1246	i:	you	491	- i: - - - - - - - - - - -
+299	ache1246	je	you	491	- - j e - - - - - - - - -
+300	ayor1240	ua	you	491	- - u a - - - - - - - - -
+301	mund1330	e	you	491	- e - - - - - - - - - - -
+302	nina1238	wa	you	491	- - w a - - - - - - - - -
+303	niva1238	awaaca	you	491	- a w aa c a - - - - - - -
+304	moch1259	t͡ʃang	you	445	- - t͡ʃ a ŋ - - - - - - - -
+305	qawa1238	t͡ʃaw	you	445	- - t͡ʃ a w - - - - - - - -
+306	djeo1235	ʔad͡ʒe	you	445	ʔ a d͡ʒ e - - - - - - - - -
+307	para1311	de	you	445	- - d e - - - - - - - - -
+308	east2555	de	you	445	- - d e - - - - - - - - -
+309	paez1247	id	you	445	- i d - - - - - - - - - -
+310	cand1248	ʃi	you	419	ʃ i - - - - - - - - - - -
+311	yama1264	sa	you	419	s a - - - - - - - - - - -
+312	muni1258	pü	you	448	- p ü - - - - - - - - - -
+313	puqu1242	pi	you	448	- p i - - - - - - - - - -
+314	sanb1242	pa	you	448	- p a - - - - - - - - - -
+315	ashe1272	pi	you	448	- p i - - - - - - - - - -
+316	tari1256	pi	you	448	- p i - - - - - - - - - -
+317	yane1238	pa	you	448	- p a - - - - - - - - - -
+318	bari1297	bai	you	448	- b a - i - - - - - - - -
+319	baur1253	piti	you	448	- p i t i - - - - - - - -
+320	cayu1262	p	you	448	- p - - - - - - - - - - -
+321	cayu1262	pi	you	448	- p i - - - - - - - - - -
+322	cayu1262	ipi	you	448	i p i - - - - - - - - - -
+323	cayu1262	apa	you	448	a p a - - - - - - - - - -
+324	nort2972	bi	you	448	- b i - - - - - - - - - -
+325	epen1239	pi	you	448	- p i - - - - - - - - - -
+326	epen1239	pici	you	448	- p i c i - - - - - - - -
+327	wayu1243	pia	you	448	- p i - a - - - - - - - -
+328	igna1246	piti	you	448	- p i t i - - - - - - - -
+329	mash1270	pita	you	448	- p i t a - - - - - - - -
+330	mash1270	p	you	448	- p - - - - - - - - - - -
+331	mash1270	pi	you	448	- p i - - - - - - - - - -
+332	trin1274	p	you	448	- p - - - - - - - - - - -
+333	tuyu1244	bii	you	448	- b ii - - - - - - - - - -
+334	waor1240	bito	you	448	- b i t o - - - - - - - -
+335	waur1244	picu	you	448	- p i c u - - - - - - - -
+336	wapi1253	pigari	you	448	- p i - - g a r i - - - -
+337	ache1246	go	he/she/it	123	- - g o - - - - - - - -
+338	amar1274	kẽn	he/she/it	123	- - k ẽ n - - - - - - -
+339	arao1248	hoda	he/she/it	123	- - h o d - a - - - - -
+340	arao1248	homa	he/she/it	123	- - h o - m a - - - - -
+341	arao1248	da	he/she/it	123	- - - - d - a - - - - -
+342	pano1254	haa	he/she/it	123	- - h aa - - - - - - - -
+343	pano1254	hato	he/she/it	123	- - h a t - o - - - - -
+344	pano1254	hawi	he/she/it	123	- - h a - w i - - - - -
+345	east2555	hae	he/she/it	123	- - h a - - e - - - - -
+346	wayu1243	hia	he/she/it	123	- - h i - - a - - - - -
+347	capa1241	ha	he/she/it	123	- - h a - - - - - - - -
+348	chac1251	ha	he/she/it	123	- - h a - - - - - - - -
+349	xava1240	ʔõ	he/she/it	123	- - ʔ õ - - - - - - - -
+350	yama1264	kænjin	he/she/it	123	- - k æ n j i - - - n -
+351	cofa1242	ca	he/she/it	123	- - c a - - - - - - - -
+352	arao1248	oho	he/she/it	123	o - h o - - - - - - - -
+353	movi1243	usko	he/she/it	123	u s k o - - - - - - - -
+354	movi1243	asko	he/she/it	123	a s k o - - - - - - - -
+355	pira1253	hiapióʔio	he/she/it	123	- - h ia - p ió ʔ i o - -
+356	para1311	haʔe	he/she/it	123	- - h a - - - ʔ - e - -
+357	paca1246	haa	he/she/it	123	- - h aa - - - - - - - -
+358	maca1260	akhaʔan	he/she/it	123	a - kh a - - - ʔ a - n -
+359	urar1246	aka	he/she/it	123	a - k a - - - - - - - -
+360	tuyu1244	kiikoo	he/she/it	123	- - k ii - - - k oo - - -
+361	wari1268	komaʔ	he/she/it	123	- - k o - m a ʔ - - - -
+362	nina1238	kama	he/she/it	123	- - k a - m a - - - - -
+363	mill1237	eguj	he/she/it	123	e - g u j - - - - - - -
+364	ayac1239	paj	he/she/it	149	- - p a y - - - - - - -
+365	chol1284	pi	he/she/it	149	- - p i - - - - - - - -
+366	cent2142	upa	he/she/it	149	- u p a - - - - - - - -
+367	sout2996	hupa	he/she/it	149	h u p a - - - - - - - -
+368	bari1297	oobai	he/she/it	149	- oo b a i - - - - - - -
+369	leco1242	kibi	he/she/it	149	k i b i - - - - - - - -
+370	nort2973	paj	he/she/it	149	- - p a y - - - - - - -
+371	nort2980	paj	he/she/it	149	- - p a y - - - - - - -
+372	mund1330	ibo	he/she/it	149	- i b o - - - - - - - -
+373	mapu1245	fej	he/she/it	149	- - f e y - - - - - - -
+374	cofa1242	hoβa	he/she/it	149	h o β a - - - - - - - -
+375	cusc1236	paj	he/she/it	149	- - p a y - - - - - - -
+376	iton1250	pini	he/she/it	149	- - p i - n i - - - - -
+377	sion1247	paki	he/she/it	149	- - p a - - - k i - - -
+378	sion1247	pako	he/she/it	149	- - p a - - - k o - - -
+379	sion1247	paku	he/she/it	149	- - p a - - - k u - - -
+380	imba1240	pay	he/she/it	149	- - p a y - - - - - - -
+381	chay1248	pasu	he/she/it	149	- - p a - s u - - - - -
+382	pila1245	ʔme	he/she/it	141	ʔ - m e - - - - - - - -
+383	macu1259	miikiri	he/she/it	141	- - m ii k i r i - - - -
+384	enap1235	mək	he/she/it	141	- - m ə k - - - - - - -
+385	enap1235	mukuh	he/she/it	141	- - m u k u - - h - - -
+386	trin1274	ma	he/she/it	141	- - m a - - - - - - - -
+387	trin1274	mue	he/she/it	141	- - m u - e - - - - - -
+388	gali1262	moko	he/she/it	141	- - m o k o - - - - - -
+389	gali1262	molo	he/she/it	141	- - m o - - l o - - - -
+390	igna1246	ema	he/she/it	141	- e m a - - - - - - - -
+391	boro1282	ema	he/she/it	141	- e m a - - - - - - - -
+392	iyow1239	lam	he/she/it	141	l - a m - - - - - - - -
+393	wich1264	lam	he/she/it	141	l - a m - - - - - - - -
+394	wich1264	lham	he/she/it	141	lh - a m - - - - - - - -
+395	wich1262	ɬam	he/she/it	141	ɬ - a m - - - - - - - -
+396	nort2972	iji	he/she/it	158	i y i - - - - - - - - -
+397	mund1330	ijop	he/she/it	158	i y o p - - - - - - - -
+398	kunz1244	aja	he/she/it	158	a y a - - - - - - - - -
+399	cayu1262	i	he/she/it	158	- - i - - - - - - - - -
+400	kain1272	i	he/she/it	158	- - i - - - - - - - - -
+401	puin1248	oo	he/she/it	158	- - oo - - - - - - - - -
+402	waya1270	ɔ	he/she/it	158	- - ɔ - - - - - - - - -
+403	kari1311	i	he/she/it	158	- - i - - - - - - - - -
+404	waya1270	awi	he/she/it	158	a w i - - - - - - - - -
+405	ship1254	ja	he/she/it	158	- y a - - - - - - - - -
+406	colo1256	ya	he/she/it	158	- y a - - - - - - - - -
+407	cash1254	ja	he/she/it	158	- y a - - - - - - - - -
+408	cash1251	a	he/she/it	158	a - - - - - - - - - - -
+409	chac1249	ja	he/she/it	158	- y a - - - - - - - - -
+410	cand1248	o	he/she/it	158	- - o - - - - - - - - -
+411	yami1256	a	he/she/it	158	- - a - - - - - - - - -
+412	arhu1242	a	he/she/it	158	- - a - - - - - - - - -
+413	ashe1272	i	he/she/it	158	- - i - - - - - - - - -
+414	yano1262	a	he/she/it	158	- - a - - - - - - - - -
+415	siri1273	ae	he/she/it	158	- - a e - - - - - - - -
+416	mund1330	ija	he/she/it	158	i y aa - - - - - - - - -
+417	wapi1253	uruu	he/she/it	127	- u r uu - - - - - - - -
+418	cayu1262	rae	he/she/it	127	- - r a - e - - - - - -
+419	wapi1253	irii	he/she/it	127	- i r ii - - - - - - - -
+420	yagu1244	ra	he/she/it	127	- - r a - - - - - - - -
+421	hixk1239	noro	he/she/it	127	n o r o - - - - - - - -
+422	muni1258	ra	he/she/it	127	- - r a - - - - - - - -
+423	nort2972	iru	he/she/it	127	- i r u - - - - - - - -
+424	epen1239	iru	he/she/it	127	- i r u - - - - - - - -
+425	mash1270	wale	he/she/it	127	w a l e - - - - - - - -
+426	waiw1244	noro	he/she/it	127	n o r o - - - - - - - -
+427	waiw1244	ero	he/she/it	127	- e r o - - - - - - - -
+428	mash1270	wala	he/she/it	127	w a l a - - - - - - - -
+429	wari1268	wiriko	he/she/it	127	w i r i - - k o - - - -
+430	orow1243	woriko	he/she/it	127	w o r i - - k o - - - -
+431	wany1246	arukwan	he/she/it	127	- a r u - - k w a n - -
+432	tora1263	wariko	he/she/it	127	w a r i - - k o - - - -
+433	chap1269	arikahu	he/she/it	127	- a r i - - k - a h u -
+434	kite1237	ariko	he/she/it	127	- a r i - - k o - - - -
+435	urup1245	okain	he/she/it	127	- o - - - - k - ai n - -
+436	iten1243	korari	he/she/it	127	k o r a r i - - - - - -
+437	jebe1250	nana	he/she/it	145	- - - n a n a - - - - -
+438	chay1248	ina	he/she/it	145	- i - n a - - - - - - -
+439	yagu1244	sani	he/she/it	145	s a - n i - - - - - - -
+440	igna1246	eni	he/she/it	145	- e - n i - - - - - - -
+441	movi1243	isne	he/she/it	145	- i s n e - - - - - - -
+442	pume1238	ine	he/she/it	145	- i - n e - - - - - - -
+443	yavi1244	anihi	he/she/it	145	- a - n i - h i - - - -
+444	wayu1243	nia	he/she/it	145	- - - n i a - - - - - -
+445	shua1257	nĩi	he/she/it	145	- - - n ĩ i - - - - - -
+446	iton1250	ohni	he/she/it	145	- o h n i - - - - - - -
+447	mund1330	ino	he/she/it	145	- i - n o - - - - - - -
+448	puin1248	naa	he/she/it	145	- - - n aa - - - - - - -
+449	trin1274	eni	he/she/it	145	- e - n i - - - - - - -
+450	trum1247	hine	he/she/it	145	h i - n e - - - - - - -
+451	trum1247	ne	he/she/it	145	- - - n e - - - - - - -
+452	yagu1244	ni	he/she/it	145	- - - n i - - - - - - -
+453	agua1253	nĩ	he/she/it	145	- - - n ĩ - - - - - - -
+454	chip1262	ni:	he/she/it	145	- - - n i: - - - - - - -
+455	djeo1235	na	he/she/it	145	- - - n a - - - - - - -
+456	guam1248	na	he/she/it	145	- - - n a - - - - - - -
+457	yane1238	ɲa	he/she/it	145	- - - ɲ a - - - - - - -
+458	mala1522	na	he/she/it	145	- - - n a - - - - - - -
+459	iqui1243	nu	he/she/it	145	- - - n u - - - - - - -
+460	waur1244	nezi	he/she/it	145	- - - n e - z i - - - -
+461	ocai1244	injánh	he/she/it	145	- i - n yá n h - - - - -
+462	yami1256	ato	he/she/it	234	- a - - t o - - - - - -
+463	cane1242	tamə	he/she/it	234	- - - - t a m ə - - - -
+464	ayor1240	uuteʔ	he/she/it	234	- uu - - t e - - - - - ʔ
+465	ayor1240	uaateʔ	he/she/it	234	- u aa - t e - - - - - ʔ
+466	baur1253	roti	he/she/it	234	r - o - t i - - - - - -
+467	cayu1262	t	he/she/it	234	- - - - t - - - - - - -
+468	cayu1262	ta	he/she/it	234	- - - - t a - - - - - -
+469	cayu1262	tite	he/she/it	234	t - i - t e - - - - - -
+470	kain1272	ti	he/she/it	234	- - - - t i - - - - - -
+471	kara1500	tii	he/she/it	234	- - - - t ii - - - - - -
+472	mund1330	ite	he/she/it	234	- - i - t e - - - - - -
+473	paez1247	taa	he/she/it	234	- - - - t aa - - - - - -
+474	taca1256	toeda	he/she/it	234	t o e - d a - - - - - -
+475	hupd1244	tih	he/she/it	234	- - - - t i h - - - - -
+476	krik1239	ta	he/she/it	234	- - - - t a - - - - - -
+477	onaa1245	ta	he/she/it	234	- - - - t a - - - - - -
+478	tari1256	di	he/she/it	234	- - - - d i - - - - - -
+479	tehu1242	ta:	he/she/it	234	- - - - t a: - - - - - -
+480	cofa1242	tise	he/she/it	234	- - - - t i s e - - - -
+481	taca1256	toaweda	he/she/it	234	- - - - t o a w e d a -
+482	qawa1238	tou	he/she/it	234	- - - - t o u - - - - -
+483	esee1248	tu	he/she/it	234	- - - - t u - - - - - -
+484	cavi1250	tu	he/she/it	234	- - - - t u - - - - - -
+485	maqu1238	tiwi	he/she/it	234	- - - - t i w i - - - -
+486	baur1253	riti	he/she/it	234	r - - i t i - - - - - -
+487	epen1239	ici	he/she/it	234	- - - i c i - - - - - -
+488	niva1238	lawaaca	he/she/it	234	l a w aa c a - - - - - -
+489	pume1238	ɔde	he/she/it	234	- - - ɔ d e - - - - - -
+490	puqu1242	t͡ʃu	he/she/it	234	- - - - t͡ʃ u - - - - - -
+491	waor1240	tobega	he/she/it	234	- - - - t o b e - g a -
+492	sanb1242	ad	he/she/it	234	- - - a d - - - - - - -
+493	chay1248	saja	he/she/it	253	- s a y a - - - - - - -
+494	puel1244	ʃaʃa	he/she/it	253	- ʃ a ʃ a - - - - - - -
+495	awac1239	us	he/she/it	253	u s - - - - - - - - - -
+496	mund1330	ise	he/she/it	253	i s e - - - - - - - - -
+497	chib1270	asy	he/she/it	253	a s y - - - - - - - - -
+498	agua1253	ii	we	258	ii - - - - - - - - - - - - - -
+499	shua1257	íĩ	we	258	í ĩ - - - - - - - - - - - - -
+500	cand1248	i	we	258	i - - - - - - - - - - - - - -
+501	ayor1240	yokeʔ	we	259	- - y - - o k e ʔ - - - - - -
+502	ayor1240	uuyokeʔ	we	259	uu - y - - o k e ʔ - - - - - -
+503	macu1259	uuriʔnikon	we	259	uu r i ʔ n i k o n - - - - - -
+504	enap1235	yutokon	we	259	y - u t - o k o n - - - - - -
+505	nort2980	yaʔakuna	we	259	y - a ʔ - a k u n a - - - - -
+506	sion1247	mai	we	261	m a - i - - - - - - - - - - -
+507	arhu1242	manʉnka	we	261	m a n ʉ n k a - - - - - - - -
+508	trin1274	w	we	263	w - - - - - - - - - - - - - -
+509	tari1256	wa	we	263	w a - - - - - - - - - - - - -
+510	muni1258	wü	we	263	w ü - - - - - - - - - - - - -
+511	ashe1272	a	we	263	- a - - - - - - - - - - - - -
+512	cayu1262	o	we	263	- o - - - - - - - - - - - - -
+513	cayu1262	oda	we	263	- o d a - - - - - - - - - - -
+514	waya1270	ya	we	263	y - - a - - - - - - - - - - -
+515	yagu1244	wuy	we	263	w u - - y - - - - - - - - - -
+516	yuwa1244	ye	we	263	y - - e - - - - - - - - - - -
+517	awac1239	au	we	263	- a - u - - - - - - - - - - -
+518	yane1238	ja	we	263	y a - - - - - - - - - - - - -
+519	wari1268	wariʔ	we	263	w a r i ʔ - - - - - - - - - -
+520	wari1268	warut	we	263	w a r u t - - - - - - - - - -
+521	siri1273	ure	we	263	- u r e - - - - - - - - - - -
+522	tuyu1244	bari	we	263	b a r i - - - - - - - - - - -
+523	enap1235	weʔnəkon	we	263	w e ʔ - n ə k o n - - - - - -
+524	wapi1253	wainau	we	263	w ai - - n a - u - - - - - - -
+525	wayu1243	waya	we	263	w a y a - - - - - - - - - - -
+526	yavi1244	wayaha	we	263	w a y a h a - - - - - - - - -
+527	mund1330	wiyji	we	263	w i y i - - - - - - - - - - -
+528	yuwa1244	yeti	we	263	y e t i - - - - - - - - - - -
+529	sion1247	yikina	we	263	y i k i n a - - - - - - - - -
+530	orow1243	wariʔ	we	263	w a - - r i ʔ - - - - - - - -
+531	wany1246	wari	we	263	w a - - r i - - - - - - - - -
+532	urup1245	wari	we	263	w a - - r i - - - - - - - - -
+533	tora1263	wazati	we	263	w a z a t i - - - - - - - - -
+534	iten1243	watiʔ	we	263	w a - - t i ʔ - - - - - - - -
+535	kite1237	wat͡ʃe	we	263	w a - - t͡ʃ e - - - - - - - - -
+536	chap1269	wajahu	we	263	w a y a h u - - - - - - - - -
+537	east2555	yade	we	263	y a d e - - - - - - - - - - -
+538	baur1253	βiti	we	267	β i t i - - - - - - - - - - -
+539	igna1246	witi	we	267	w i t i - - - - - - - - - - -
+540	mash1270	wita	we	267	w i t a - - - - - - - - - - -
+541	puin1248	bitu	we	267	b i t u - - - - - - - - - - -
+542	waor1240	bodo	we	267	b o d o - - - - - - - - - - -
+543	waor1240	bodito	we	267	b o d i t o - - - - - - - - -
+544	boro1282	pagi	we	267	p a g i - - - - - - - - - - -
+545	pume1238	arore	we	275	- a r o r e - - - - - - - - -
+546	chac1249	lala	we	275	- - l a l a - - - - - - - - -
+547	para1311	ore	we	275	- o r e - - - - - - - - - - -
+548	ache1246	ore	we	275	- o r e - - - - - - - - - - -
+549	east2555	ore	we	275	- o r e - - - - - - - - - - -
+550	leco1242	t͡ʃera	we	275	t͡ʃ e r a - - - - - - - - - - -
+551	amar1274	oroʔ	we	275	- o r o - - ʔ - - - - - - - -
+552	trum1247	hauan	we	277	- - - h a u - a n - - - - - -
+553	yama1264	hipaj	we	277	- - - h i - p a - - j - - - -
+554	arao1248	kada	we	277	- - - k a - d a - - - - - - -
+555	arao1248	kadaha	we	277	- - - k a - d a h a - - - - -
+556	arao1248	kama	we	277	- - - k a - - - m a - - - - -
+557	arao1248	kamaha	we	277	- - - k a - - - m a h a - - -
+558	bari1297	cyiidyi	we	277	- - - c y ii d y - i - - - - -
+559	gali1262	kiko	we	277	- - - k i - k o - - - - - - -
+560	chay1248	kija	we	277	- - - k i - y a - - - - - - -
+561	chol1284	kiha	we	277	- - - k i - h a - - - - - - -
+562	iqui1243	kina	we	277	- - - k i - - - n a - - - - -
+563	ocai1244	xaajóh	we	277	- - - x aa - j ó h - - - - - -
+564	mill1237	kut͡ʃu	we	277	- - - k u - t͡ʃ u - - - - - - -
+565	jebe1250	kuða	we	277	- - - k u - ð a - - - - - - -
+566	mund1330	oceji	we	277	- - o c e - y i - - - - - - -
+567	taca1256	ekaneda	we	277	- - e k a - - - n e d a - - -
+568	taca1256	ekanaho	we	277	- - e k a - - - n a h o - - -
+569	kunz1244	kuna	we	277	- - - k u - - - n a - - - - -
+570	nina1238	kahowamak	we	277	- - - k a - h o - - w a m a k
+571	nina1238	wamak	we	277	- - - - - - - - - - w a m a k
+572	nina1238	kamiyamak	we	277	- - - k a - - - m i y a m a k
+573	nina1238	yamak	we	277	- - - - - - - - - - y a m a k
+574	puel1244	kɨyaw	we	277	- - - k ɨ - y a - - w - - - -
+575	maqu1238	kiwi	we	277	- - - k i - w i - - - - - - -
+576	niva1238	kaswaaca	we	277	- - - k a - s - w aa c a - - -
+577	paez1247	kweʔs	we	277	- - - k - - w e - - ʔ s - - -
+578	waiw1244	kiiwi	we	277	- - - k ii - w i - - - - - - -
+579	waiw1244	kiwyam	we	277	- - - k i - w y - a - - m - -
+580	trum1247	kaa	we	277	- - - k aa - - - - - - - - - -
+581	pila1245	koʔmi	we	277	- - - k o ʔ - - m i - - - - -
+582	urar1246	kana	we	277	- - - k a - - - n a - - - - -
+583	hixk1239	kɨwro	we	277	- - - k ɨ - w - r o - - - - -
+584	sout2996	hiwasa	we	277	- - - h i - w a s a - - - - -
+585	para1311	haʔe	we	277	- - - h a - ʔ e - - - - - - -
+586	para1311	haʔecupe	we	277	- - - h a - ʔ e c u p e - - -
+587	cent2142	hiwsa	we	277	- - - h i - w - s a - - - - -
+588	maca1260	inekhewel	we	277	- - - k h e w e l - - - - - -
+589	maca1260	inekhewelkiʔ	we	277	- - - k h e w e l - k i ʔ - -
+590	maca1260	yekhewelil	we	277	y - e k h e w e l - i l - - -
+591	onaa1245	ikuwa	we	277	- - i k - u w a - - - - - - -
+592	tehu1242	okwa:	we	277	- - o k - - w a: - - - - - - -
+593	cusc1236	ɲuqant͡ʃis	we	277	- - - q a n t͡ʃ i s - - - - - -
+594	djeo1235	ħirø	we	277	- - - ħ i r ø - - - - - - - -
+595	ayac1239	ɲuqant͡ʃik	we	277	- - - q a n t͡ʃ i - k - - - - -
+596	nort2973	ɲukant͡ʃik	we	277	- - - k a n t͡ʃ i - k - - - - -
+597	toba1269	qomiʔ	we	277	- - - q o - m i - ʔ - - - - -
+598	imba1240	nukanchik	we	277	- - - k a n t͡ʃ i - k - - - - -
+599	waur1244	aicu	we	277	a - i c u - - - - - - - - - -
+600	pano1254	noki	we	277	- - - k i - - - - - - - - - -
+601	mose1249	tsin	we	310	ts i n - - - - - - - - - - - -
+602	mapu1245	iɲt͡ʃiw	we	310	- i ɲ t͡ʃ i w - - - - - - - - -
+603	puqu1242	seɲ	we	310	s e ɲ - - - - - - - - - - - -
+604	nort2972	dai	we	310	d a - - i - - - - - - - - - -
+605	epen1239	taci	we	310	t a - c i - - - - - - - - - -
+606	epen1239	tai	we	310	t a - - i - - - - - - - - - -
+607	chib1270	t͡ʃie	we	310	t͡ʃ i - - e - - - - - - - - - -
+608	cayu1262	rihi	we	279	r i h - i - - - - - - - - - -
+609	cayu1262	ihi	we	279	- i h - i - - - - - - - - - -
+610	cofa1242	igi	we	279	- i g - i - - - - - - - - - -
+611	movi1243	ide	we	279	- i d - e - - - - - - - - - -
+612	chip1262	ut͡ʃum	we	279	- u t͡ʃ - u m - - - - - - - - -
+613	kari1311	ita	we	279	i t a - - - - - - - - - - - -
+614	iyow1239	yemel	we	282	- - - - - y e m e l - - - - -
+615	colo1256	cikila	we	282	- - - - c - i k i l a - - - -
+616	niva1238	yiwaacael	we	282	y i w aa c - a - e l - - - - -
+617	iton1250	dihniʔke	we	294	d i h n i - - ʔ k e - - - - -
+618	iton1250	dihniteʔke	we	294	d i h n i t e ʔ k e - - - - -
+619	iton1250	sihniʔke	we	294	s i h n i - - ʔ k e - - - - -
+620	iton1250	sihniteʔke	we	294	s i h n i t e ʔ k e - - - - -
+621	leng1262	ninkoo	we	294	- - - n i - - n k oo - - - - -
+622	yami1256	noko	we	294	- - - n o - - - k o - - - - -
+623	yano1262	pɨhɨkɨ	we	294	p ɨ h - ɨ - - - k ɨ - - - - -
+624	iyow1239	sam	we	295	s a m - - - - - - - - - - - -
+625	kain1272	ʔen	we	295	ʔ e n - - - - - - - - - - - -
+626	mash1270	ha	we	295	h a - - - - - - - - - - - - -
+627	hupd1244	ʔin	we	295	ʔ i n - - - - - - - - - - - -
+628	movi1243	iʔli	we	354	i ʔ l i - - - - - - - - - - -
+629	waya1270	ɔlɔ	we	354	ɔ - l ɔ - - - - - - - - - - -
+630	waya1270	ɔle	we	354	ɔ - l e - - - - - - - - - - -
+631	wich1264	olamil	we	354	o - l a m i l - - - - - - - -
+632	pano1254	noki	we	298	- - - n o k i - - - - - - - -
+633	pano1254	no	we	298	- - - n o - - - - - - - - - -
+634	cayu1262	ona	we	298	- o - n a - - - - - - - - - -
+635	cayu1262	onara	we	298	- o - n a r a - - - - - - - -
+636	kara1500	ini	we	298	- i - n i - - - - - - - - - -
+637	macu1259	anna	we	298	- a - nn a - - - - - - - - - -
+638	enap1235	ana	we	298	- a - n a - - - - - - - - - -
+639	siri1273	nane	we	298	n a - n e - - - - - - - - - -
+640	waya1270	yane	we	298	y a - n e - - - - - - - - - -
+641	yagu1244	nay	we	298	- - - n a y - - - - - - - - -
+642	yagu1244	nuy	we	298	- - - n u y - - - - - - - - -
+643	yami1256	no	we	298	- - - n o - - - - - - - - - -
+644	gali1262	nana	we	298	n a - n a - - - - - - - - - -
+645	cash1251	nu	we	298	- - - n u - - - - - - - - - -
+646	cash1254	nu	we	298	- - - n u - - - - - - - - - -
+647	chac1251	no	we	298	- - - n o - - - - - - - - - -
+648	capa1241	no	we	298	- - - n o - - - - - - - - - -
+649	ship1254	no	we	298	- - - n o - - - - - - - - - -
+650	ache1246	naje	we	298	- - - n a j e - - - - - - - -
+651	cusc1236	ɲuqant͡ʃis	we	298	- - - ɲ u - - - - - - - - - -
+652	sanb1242	nan	we	298	- - - n a n - - - - - - - - -
+653	maqu1238	nna	we	298	- - - nn a - - - - - - - - - -
+654	waiw1244	amna	we	298	- a m n a - - - - - - - - - -
+655	ayac1239	ɲuqant͡ʃik	we	298	- - - ɲ u - - - - - - - - - -
+656	nort2973	ɲukant͡ʃik	we	298	- - - ɲ u - - - - - - - - - -
+657	imba1240	nukanchik	we	298	- - - n u - - - - - - - - - -
+658	maca1260	inekhewel	we	298	- i - n e - - - - - - - - - -
+659	maca1260	inekhewelkiʔ	we	298	- i - n e - - - - - - - - - -
+660	iyow1239	samel	we	309	- - - s a m e l - - - - - - -
+661	wich1264	namil	we	309	- - - n a m i l - - - - - - -
+662	wich1264	nlhamilh	we	309	n - l h a m i l h - - - - - -
+663	wich1264	namilh	we	309	n - - - a m i l h - - - - - -
+664	wich1264	tolhamilh	we	309	t o l h a m i l h - - - - - -
+665	moco1246	qomiʔ	we	309	- - - q o m i ʔ - - - - - - -
+666	wich1262	nɬamiɬ	we	309	n - ɬ - a m i ɬ - - - - - - -
