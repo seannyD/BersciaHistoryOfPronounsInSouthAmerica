@@ -59,6 +59,12 @@ lex.get_scorer(force=True,
 	rands=randomScorerRuns,
 	limit=markovLimit,
 	threshold=scorerThreshold)
+	
+# Run the clustering method
+# For the original paper, this was run using the "lexstat" method. 
+# However, Johan Mattis List commented:
+# "If you have less then 100 mutual pairs of words on average per pair of languages in your sample, you should never use the lexstat proper method, since it has a smoothing factor that will set all matches beyond that factor to zero, so the method simply refuses, in some sense, to detect cognates, because it was told not to (similar to a linguist who would demand two sound correspondence examples at least, before calling something regular).
+# Instead of method='lexstat', simply write method='sca', and go with a threshold of 0.45. I am convinced, the bcubes will yield a much higher recall then."
 lex.cluster(method="lexstat", threshold=cluster_threshold, ref="cognates")
 
 lex.output('qlc', filename="../qlc_cluster/pronouns_cluster")
